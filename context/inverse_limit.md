@@ -1,0 +1,6 @@
+---
+layout: page
+title: inverse limit
+permalink: /context/inverse_limit
+---
+The limit of a diagram indexed by the category $\bbomega^\op$ is called an **inverse limit** of a tower or a sequence of morphisms. On account of this example, the term ``inverse limit'' is sometimes used to refer to limits of any shape. A diagram indexed by $\bbomega^\op$ consists of a sequence of objects and morphisms\n$$ \xymatrix{ \cdots \ar[r] & F_3 \ar[r] & F_2 \ar[r] & F_1 \ar[r] & F_0}$$ together with composites and identities, which are not displayed. A cone over this diagram is an extension of this data to a diagram of shape $(\bbomega +1)^\op$. Explicitly, a cone consists of a new object ``all the way to the left'' together with morphisms making every triangle commute:\n$$ \xymatrix@=35pt{ c \ar[d]^\cdots \ar[dr]|{\colorbox{white}{\makebox(9,5){\scriptsize$\lambda_{3}$}}} \ar[drr]|{\colorbox{white}{\makebox(9,5){\scriptsize$\lambda_{ 2}$}}} \ar[drrr]|{\colorbox{white}{\makebox(9,5){\scriptsize$\lambda_{ 1}$}}} \ar[drrrr]|{\colorbox{white}{\makebox(8,4){\scriptsize$\lambda_{ 0}$}}} \\  \cdots \ar[r] & F_3 \ar[r] & F_2 \ar[r] & F_1 \ar[r] & F_0}$$ The inverse limit,  frequently denoted by $\varprojlim F_n$, is the terminal cone. Similar remarks apply with any limit ordinal $\bbalpha$ in place of $\bbomega$.

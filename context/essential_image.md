@@ -1,0 +1,6 @@
+---
+layout: page
+title: essential image
+permalink: /context/essential_image
+---
+The following constructions and definitions are equivalence invariant:\n1. If a category is locally small, any category equivalent to it is again locally small.\n2. If a category is a groupoid, any category equivalent to it is again a groupoid.\n3. If $\cC \simeq \cD$, then $\cC^\op \simeq \cD^\op$.\n4. The product of a pair of categories is equivalent to the product of any pair of equivalent categories.\n5. An arrow in $\cC$ is an isomorphism if and only if its image under an equivalence $\cC \simto \cD$ is an isomorphism.\nThe last of these properties can be generalized. By Theorem \ref{thm:equivalence}, a full and faithful functor $F \colon \cC \to \cD$ defines an equivalence onto its **essential image**, the full subcategory of objects isomorphic to $Fc$ for some $c \in \cC$. Fully faithful functors have a useful property stated as Exercise \ref{exc:ff-reflect-iso}: if $F$ is full and faithful and $Fc$ and $Fc'$ are isomorphic in $\cD$, then $c$ and $c'$ are isomorphic in $\cC$. We will introduce what are easily the most important fully faithful functors in category theory in Chapter \ref{ch:yoneda}: the covariant and contravariant Yoneda embeddings.

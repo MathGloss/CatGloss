@@ -1,0 +1,6 @@
+---
+layout: page
+title: nadir
+permalink: /context/nadir
+---
+A **cone over** a diagram $F \colon \cJ \to \cC$ with **summit** or **apex** $c \in \cC$ is a natural transformation $\lambda \colon c \To F$ whose domain is the constant functor at $c$. The components $(\lambda_j \colon c \to Fj)_{j\in \cJ}$ of the natural transformation are called the **legs** of the cone. Explicitly:\n1. The data of a cone over $F \colon \cJ \to \cC$ with summit $c$ is a collection of morphisms $\lambda_j \colon c \to Fj$, indexed by the objects $j \in \cJ$.\n2. A family of morphisms $(\lambda_j \colon c \to F_j)_{j \in \cJ}$ defines a cone over $F$ if and only if, for each  morphism $f \colon j \to k$ in $\cJ$, the following triangle commutes in $\cC$:\n$$\begin{gathered} \xymatrix@=10pt{ & c \ar[dl]_{\lambda_j} \ar[dr]^{\lambda_k} \\ Fj \ar[rr]_{Ff} & & Fk}\end{gathered}$$\n\nDually, a **cone under** $F$ with **nadir** $c$ is a natural transformation $\lambda \colon F \To c$, whose **legs** are  the components $(\lambda_j \colon F_j \to c)_{j \in \cJ}$. The naturality condition asserts that, for each  morphism $f \colon j \to k$ of $\cJ$, the triangle\n$$ \xymatrix@=10pt{ Fj \ar[dr]_{\lambda_j} \ar[rr]^{Ff} & & Fk\ar[dl]^{\lambda_k} \\ & c}$$ commutes in $\cC$.

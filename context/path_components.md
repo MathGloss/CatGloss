@@ -1,0 +1,6 @@
+---
+layout: page
+title: path components
+permalink: /context/path_components
+---
+Recall the functor $\fun{Path} \colon \cat{Top} \to \cat{Set}$ that carries a space $X$ to the set $\fun{Path}(X) \coloneqq \cat{Top}(I,X)$, where $I$ is the standard unit interval. Precomposing with the endpoint inclusions $0,1 \colon * \rightrightarrows I$ defines a functor $P \colon \cat{Top} \to \cat{Set}^{\bullet \rightrightarrows \bullet}$ that carries a space $X$ to the parallel pair of functions\n$$ \xymatrix{ \fun{Path}(X) \cong \cat{Top}(I,X) \ar@<.5ex>[r]^-{\ev_0} \ar@<-.5ex>[r]_-{\ev_1} & \cat{Top}(*,X) \cong \fun{Point}(X)}$$\nthat evaluate a path at its endpoints. Their coequalizer\n$$ \xymatrix{ \fun{Path}(X) \ar@<.5ex>[r]^-{\ev_0} \ar@<-.5ex>[r]_-{\ev_1} & \fun{Point}(X) \ar@{->>}[r] & \pi_0 X}$$ defines the set of **path components** of $X$, the quotient of the set of points in $X$ by the relation that identifies any pair of points connected by a path. Proposition \ref{prop:limit-functor} tells us that this coequalizer defines a functor, the **path components functor** $$\n\pi_0 \coloneqq \xymatrix{ \cat{Top} \ar[r]^-P &  \cat{Set}^{\bullet \rightrightarrows \bullet} \ar[r]^-{\fun{colim}} & \cat{Set}.}$$
