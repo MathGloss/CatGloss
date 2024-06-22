@@ -3,4 +3,4 @@ layout: page
 title: mutually left adjoint
 permalink: /context/mutually_left_adjoint
 ---
-A pair of contravariant functors $F \colon \cC^\op \to \cD$ and $G \colon \cD^\op \to \cC$ are **mutually left adjoint** if there exists a natural isomorphism $$ \cD(Fc,d) \cong \cC(Gd,c),$$ or **mutually right adjoint** if there exists a natural isomorphism $$ \cD(d,Fc) \cong \cC(c,Gd).$$
+A pair of contravariant functors $F \colon \mathsf{C}^\mathrm{op} \to \mathsf{D}$ and $G \colon \mathsf{D}^\mathrm{op} \to \mathsf{C}$ are **mutually left adjoint** if there exists a natural isomorphism $$ \mathsf{D}(Fc,d) \cong \mathsf{C}(Gd,c),$$ or **mutually right adjoint** if there exists a natural isomorphism $$ \mathsf{D}(d,Fc) \cong \mathsf{C}(c,Gd).$$

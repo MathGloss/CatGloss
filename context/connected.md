@@ -3,4 +3,4 @@ layout: page
 title: connected
 permalink: /context/connected
 ---
-A category $\cJ$ is **connected** if it is non-empty and if, in its underlying directed graph, every pair of objects is connected by a finite zig-zag of morphisms. A diagram is **connected** if it is indexed by a connected category.
+A category $\mathsf{J}$ is **connected** if it is non-empty and if, in its underlying directed graph, every pair of objects is connected by a finite zig-zag of morphisms. A diagram is **connected** if it is indexed by a connected category.
