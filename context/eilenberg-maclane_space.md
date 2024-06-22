@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Eilenberg--MacLane space
-permalink: /context/eilenberg--maclane_space
+title: Eilenberg-MacLane space
+permalink: /context/eilenberg-maclane_space
 ---
 The following contravariant functors are representable.
 1. The contravariant power set functor $P \colon \textup{\textsf{cat}}^\mathrm{op} \to \textup{\textsf{cat}}$ is represented by the set $\Omega = \{\top,\bot\}$ with two elements. The natural isomorphism $\textup{\textsf{cat}}(A,\Omega) \cong PA$ is defined by the bijection that associates a function $A \to \Omega$ with the subset that is the preimage of $\top$; reversing perspectives, a subset $A' \subset A$ is identified with its **classifying function** $\chi_{A'} \colon A \to \Omega$, which sends exactly the elements of $A'$ to the element $\top$. The naturality condition stipulates that for any function $f \colon A \to B$, the diagram
