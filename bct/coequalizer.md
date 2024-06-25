@@ -1,6 +1,6 @@
 ---
 layout: page
 title: coequalizer
-permalink: /context/coequalizer
+permalink: /bct/coequalizer
 ---
 A **coequalizer**    is a colimit of shape $\mathbf{E}$.

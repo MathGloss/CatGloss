@@ -1,195 +1,399 @@
-Wikidata ID,[Context](https://mathgloss.github.io/CatGloss/context)
-[Q1467124](https://www.wikidata.org/wiki/Q1467124),[Simplicial set](https://mathgloss.github.io/CatGloss/context/simplicial_set)
-[Q4370335](https://www.wikidata.org/wiki/Q4370335),[Cocomplete](https://mathgloss.github.io/CatGloss/context/cocomplete)
-[Q1296024](https://www.wikidata.org/wiki/Q1296024),[Effective](https://mathgloss.github.io/CatGloss/context/effective)
-[Q2920416](https://www.wikidata.org/wiki/Q2920416),[Kernel](https://mathgloss.github.io/CatGloss/context/kernel)
-[Q81881](https://www.wikidata.org/wiki/Q81881),[Fork](https://mathgloss.github.io/CatGloss/context/fork)
-[Q40276](https://www.wikidata.org/wiki/Q40276),[Multiplication](https://mathgloss.github.io/CatGloss/context/multiplication)
-[Q2156511](https://www.wikidata.org/wiki/Q2156511),[Cokernel](https://mathgloss.github.io/CatGloss/context/cokernel)
-[Q5446381](https://www.wikidata.org/wiki/Q5446381),[Fiber space](https://mathgloss.github.io/CatGloss/context/fiber_space)
-[Q420725](https://www.wikidata.org/wiki/Q420725),[Small](https://mathgloss.github.io/CatGloss/context/small)
-[Q529752](https://www.wikidata.org/wiki/Q529752),[Initial object](https://mathgloss.github.io/CatGloss/context/initial_object)
-[Q2119470](https://www.wikidata.org/wiki/Q2119470),[Sierpinski space](https://mathgloss.github.io/CatGloss/context/sierpinski_space)
-[Q10564851](https://www.wikidata.org/wiki/Q10564851),[Kernel operator](https://mathgloss.github.io/CatGloss/context/kernel_operator)
-[Q161172](https://www.wikidata.org/wiki/Q161172),[Unital ring](https://mathgloss.github.io/CatGloss/context/unital_ring)
-[Q595298](https://www.wikidata.org/wiki/Q595298),[Sheaf](https://mathgloss.github.io/CatGloss/context/sheaf)
-[Q357858](https://www.wikidata.org/wiki/Q357858),[Unit](https://mathgloss.github.io/CatGloss/context/unit)
-[Q288465](https://www.wikidata.org/wiki/Q288465),[Orbit-stabilizer theorem](https://mathgloss.github.io/CatGloss/context/orbit-stabilizer_theorem)
-[Q207326](https://www.wikidata.org/wiki/Q207326),[Summit](https://mathgloss.github.io/CatGloss/context/summit)
-[Q2646117](https://www.wikidata.org/wiki/Q2646117),[Forgetful functor](https://mathgloss.github.io/CatGloss/context/forgetful_functor)
-[Q919107](https://www.wikidata.org/wiki/Q919107),[Product](https://mathgloss.github.io/CatGloss/context/product)
-[Q906015](https://www.wikidata.org/wiki/Q906015),[Direct limit](https://mathgloss.github.io/CatGloss/context/direct_limit)
-[Q848569](https://www.wikidata.org/wiki/Q848569),[Complete](https://mathgloss.github.io/CatGloss/context/complete)
-[Q357858](https://www.wikidata.org/wiki/Q357858),[Adjunction](https://mathgloss.github.io/CatGloss/context/adjunction)
-[Q692689](https://www.wikidata.org/wiki/Q692689),[Coproduct](https://mathgloss.github.io/CatGloss/context/coproduct)
-[Q1945067](https://www.wikidata.org/wiki/Q1945067),[Monomorphism](https://mathgloss.github.io/CatGloss/context/monomorphism)
-[Q4596935](https://www.wikidata.org/wiki/Q4596935),[2-category](https://mathgloss.github.io/CatGloss/context/2-category)
-[Q1948412](https://www.wikidata.org/wiki/Q1948412),[Morphism](https://mathgloss.github.io/CatGloss/context/morphism)
-[Q864475](https://www.wikidata.org/wiki/Q864475),[Constant functor](https://mathgloss.github.io/CatGloss/context/constant_functor)
-[Q9248237](https://www.wikidata.org/wiki/Q9248237),[Pointwise](https://mathgloss.github.io/CatGloss/context/pointwise)
-[Q1850712](https://www.wikidata.org/wiki/Q1850712),[Cone](https://mathgloss.github.io/CatGloss/context/cone)
-[Q7631142](https://www.wikidata.org/wiki/Q7631142),[Subfunctor](https://mathgloss.github.io/CatGloss/context/subfunctor)
-[Q165474](https://www.wikidata.org/wiki/Q165474),[Commute](https://mathgloss.github.io/CatGloss/context/commute)
-[Q1503423](https://www.wikidata.org/wiki/Q1503423),[Loop](https://mathgloss.github.io/CatGloss/context/loop)
-[Q204](https://www.wikidata.org/wiki/Q204),[Zero map](https://mathgloss.github.io/CatGloss/context/zero_map)
-[Q378408](https://www.wikidata.org/wiki/Q378408),[Initial](https://mathgloss.github.io/CatGloss/context/initial)
-[Q237107](https://www.wikidata.org/wiki/Q237107),[Full](https://mathgloss.github.io/CatGloss/context/full)
-[Q120429](https://www.wikidata.org/wiki/Q120429),[Reflect](https://mathgloss.github.io/CatGloss/context/reflect)
-[Q17104639](https://www.wikidata.org/wiki/Q17104639),[Weak equivalence](https://mathgloss.github.io/CatGloss/context/weak_equivalence)
-[Q7451799](https://www.wikidata.org/wiki/Q7451799),[Separating set](https://mathgloss.github.io/CatGloss/context/separating_set)
-[Q2634828](https://www.wikidata.org/wiki/Q2634828),[Inverse limit](https://mathgloss.github.io/CatGloss/context/inverse_limit)
-[Q225014](https://www.wikidata.org/wiki/Q225014),[Cycle](https://mathgloss.github.io/CatGloss/context/cycle)
-[Q1080547](https://www.wikidata.org/wiki/Q1080547),[Truncation](https://mathgloss.github.io/CatGloss/context/truncation)
-[Q231766](https://www.wikidata.org/wiki/Q231766),[Free](https://mathgloss.github.io/CatGloss/context/free)
-[Q251307](https://www.wikidata.org/wiki/Q251307),[Localization](https://mathgloss.github.io/CatGloss/context/localization)
-[Q6086107](https://www.wikidata.org/wiki/Q6086107),[Isomorphism of categories](https://mathgloss.github.io/CatGloss/context/isomorphism_of_categories)
-[Q4227156](https://www.wikidata.org/wiki/Q4227156),[Coinduction](https://mathgloss.github.io/CatGloss/context/coinduction)
-[Q1442189](https://www.wikidata.org/wiki/Q1442189),[Natural transformation](https://mathgloss.github.io/CatGloss/context/natural_transformation)
-[Q1084766](https://www.wikidata.org/wiki/Q1084766),[Abstract nonsense](https://mathgloss.github.io/CatGloss/context/abstract_nonsense)
-[Q5051844](https://www.wikidata.org/wiki/Q5051844),[Category of elements](https://mathgloss.github.io/CatGloss/context/category_of_elements)
-[Q16033993](https://www.wikidata.org/wiki/Q16033993),[Exact](https://mathgloss.github.io/CatGloss/context/exact)
-[Q1397439](https://www.wikidata.org/wiki/Q1397439),[Fiber product](https://mathgloss.github.io/CatGloss/context/fiber_product)
-[Q506041](https://www.wikidata.org/wiki/Q506041),[Jacobian matrix](https://mathgloss.github.io/CatGloss/context/jacobian_matrix)
-[Q1948412](https://www.wikidata.org/wiki/Q1948412),[Identity morphism](https://mathgloss.github.io/CatGloss/context/identity_morphism)
-[Q189112](https://www.wikidata.org/wiki/Q189112),[Isomorphism](https://mathgloss.github.io/CatGloss/context/isomorphism)
-[Q17099363](https://www.wikidata.org/wiki/Q17099363),[Nerve](https://mathgloss.github.io/CatGloss/context/nerve)
-[Q1082992](https://www.wikidata.org/wiki/Q1082992),[Equivalence of categories](https://mathgloss.github.io/CatGloss/context/equivalence_of_categories)
-[Q7241053](https://www.wikidata.org/wiki/Q7241053),[Preserve](https://mathgloss.github.io/CatGloss/context/preserve)
-[Q60790315](https://www.wikidata.org/wiki/Q60790315),[Automorphism group](https://mathgloss.github.io/CatGloss/context/automorphism_group)
-[Q5140810](https://www.wikidata.org/wiki/Q5140810),[Coequalizer](https://mathgloss.github.io/CatGloss/context/coequalizer)
-[Q318737](https://www.wikidata.org/wiki/Q318737),[Abelian category](https://mathgloss.github.io/CatGloss/context/abelian_category)
-[Q357823](https://www.wikidata.org/wiki/Q357823),[Adjunct](https://mathgloss.github.io/CatGloss/context/adjunct)
-[Q202906](https://www.wikidata.org/wiki/Q202906),[Homeomorphism](https://mathgloss.github.io/CatGloss/context/homeomorphism)
-[Q344552](https://www.wikidata.org/wiki/Q344552),[Covariant](https://mathgloss.github.io/CatGloss/context/covariant)
-[Q860530](https://www.wikidata.org/wiki/Q860530),[Image](https://mathgloss.github.io/CatGloss/context/image)
-[Q48996306](https://www.wikidata.org/wiki/Q48996306),[Density theorem](https://mathgloss.github.io/CatGloss/context/density_theorem)
-[Q404330](https://www.wikidata.org/wiki/Q404330),[Additive](https://mathgloss.github.io/CatGloss/context/additive)
-[Q2905654](https://www.wikidata.org/wiki/Q2905654),[Representation](https://mathgloss.github.io/CatGloss/context/representation)
-[Q864475](https://www.wikidata.org/wiki/Q864475),[Contravariant functor](https://mathgloss.github.io/CatGloss/context/contravariant_functor)
-[Q1366002](https://www.wikidata.org/wiki/Q1366002),[Path](https://mathgloss.github.io/CatGloss/context/path)
-[Q595298](https://www.wikidata.org/wiki/Q595298),[Sheaf](https://mathgloss.github.io/CatGloss/context/sheaf)
-[Q1491995](https://www.wikidata.org/wiki/Q1491995),[Path component](https://mathgloss.github.io/CatGloss/context/path_component)
-[Q382698](https://www.wikidata.org/wiki/Q382698),[Affine space](https://mathgloss.github.io/CatGloss/context/affine_space)
-[Q5450158](https://www.wikidata.org/wiki/Q5450158),[Finest](https://mathgloss.github.io/CatGloss/context/finest)
-[Q1144925](https://www.wikidata.org/wiki/Q1144925),[Currying](https://mathgloss.github.io/CatGloss/context/currying)
-[Q215111](https://www.wikidata.org/wiki/Q215111),[Homomorphism](https://mathgloss.github.io/CatGloss/context/homomorphism)
-[Q288465](https://www.wikidata.org/wiki/Q288465),[Stabilizer](https://mathgloss.github.io/CatGloss/context/stabilizer)
-[Q4672496](https://www.wikidata.org/wiki/Q4672496),[Locally presentable category](https://mathgloss.github.io/CatGloss/context/locally_presentable_category)
-[Q555097](https://www.wikidata.org/wiki/Q555097),[Accessible](https://mathgloss.github.io/CatGloss/context/accessible)
-[Q719395](https://www.wikidata.org/wiki/Q719395),[Category](https://mathgloss.github.io/CatGloss/context/category)
-[Q338707](https://www.wikidata.org/wiki/Q338707),[Disjoint](https://mathgloss.github.io/CatGloss/context/disjoint)
-[Q4720939](https://www.wikidata.org/wiki/Q4720939),[Closure](https://mathgloss.github.io/CatGloss/context/closure)
-[Q2785361](https://www.wikidata.org/wiki/Q2785361),[Monoid](https://mathgloss.github.io/CatGloss/context/monoid)
-[Q145825](https://www.wikidata.org/wiki/Q145825),[Nadir](https://mathgloss.github.io/CatGloss/context/nadir)
-[Q1417809](https://www.wikidata.org/wiki/Q1417809),[Universal](https://mathgloss.github.io/CatGloss/context/universal)
-[Q1575634](https://www.wikidata.org/wiki/Q1575634),[Concrete category](https://mathgloss.github.io/CatGloss/context/concrete_category)
-[Q5156688](https://www.wikidata.org/wiki/Q5156688),[Component](https://mathgloss.github.io/CatGloss/context/component)
-[Q320357](https://www.wikidata.org/wiki/Q320357),[Closed](https://mathgloss.github.io/CatGloss/context/closed)
-[Q386320](https://www.wikidata.org/wiki/Q386320),[Universal element](https://mathgloss.github.io/CatGloss/context/universal_element)
-[Q6897858](https://www.wikidata.org/wiki/Q6897858),[Monadic](https://mathgloss.github.io/CatGloss/context/monadic)
-[Q13635346](https://www.wikidata.org/wiki/Q13635346),[Locally small](https://mathgloss.github.io/CatGloss/context/locally_small)
-[Q10564851](https://www.wikidata.org/wiki/Q10564851),[Closure operator](https://mathgloss.github.io/CatGloss/context/closure_operator)
-[Q133105](https://www.wikidata.org/wiki/Q133105),[Leg](https://mathgloss.github.io/CatGloss/context/leg)
-[Q1945014](https://www.wikidata.org/wiki/Q1945014),[Unit object](https://mathgloss.github.io/CatGloss/context/unit_object)
-[Q766522](https://www.wikidata.org/wiki/Q766522),[Fundamental theorem of Galois theory](https://mathgloss.github.io/CatGloss/context/fundamental_theorem_of_galois_theory)
-[Q223683](https://www.wikidata.org/wiki/Q223683),[Transpose](https://mathgloss.github.io/CatGloss/context/transpose)
-[Q782566](https://www.wikidata.org/wiki/Q782566),[Automorphism](https://mathgloss.github.io/CatGloss/context/automorphism)
-[Q752487](https://www.wikidata.org/wiki/Q752487),[Double dual](https://mathgloss.github.io/CatGloss/context/double_dual)
-[Q130998](https://www.wikidata.org/wiki/Q130998),[Equivalence relation](https://mathgloss.github.io/CatGloss/context/equivalence_relation)
-[Q17141489](https://www.wikidata.org/wiki/Q17141489),[Intersection](https://mathgloss.github.io/CatGloss/context/intersection)
-[Q864475](https://www.wikidata.org/wiki/Q864475),[Bifunctor](https://mathgloss.github.io/CatGloss/context/bifunctor)
-[Q746083](https://www.wikidata.org/wiki/Q746083),[Homotopical](https://mathgloss.github.io/CatGloss/context/homotopical)
-[Q1196038](https://www.wikidata.org/wiki/Q1196038),[Groupoid](https://mathgloss.github.io/CatGloss/context/groupoid)
-[Q1442189](https://www.wikidata.org/wiki/Q1442189),[Natural isomorphism](https://mathgloss.github.io/CatGloss/context/natural_isomorphism)
-[Q719395](https://www.wikidata.org/wiki/Q719395),[Object](https://mathgloss.github.io/CatGloss/context/object)
-[Q5183420](https://www.wikidata.org/wiki/Q5183420),[Create](https://mathgloss.github.io/CatGloss/context/create)
-[Q3041173](https://www.wikidata.org/wiki/Q3041173),[Group extension](https://mathgloss.github.io/CatGloss/context/group_extension)
-[Q843237](https://www.wikidata.org/wiki/Q843237),[Diagram](https://mathgloss.github.io/CatGloss/context/diagram)
-[Q1144780](https://www.wikidata.org/wiki/Q1144780),[Homology](https://mathgloss.github.io/CatGloss/context/homology)
-[Q7432](https://www.wikidata.org/wiki/Q7432),[Species](https://mathgloss.github.io/CatGloss/context/species)
-[Q1224487](https://www.wikidata.org/wiki/Q1224487),[Equalizer](https://mathgloss.github.io/CatGloss/context/equalizer)
-[Q311627](https://www.wikidata.org/wiki/Q311627),[P-adic integer](https://mathgloss.github.io/CatGloss/context/p-adic_integer)
-[Q1322614](https://www.wikidata.org/wiki/Q1322614),[Colimit](https://mathgloss.github.io/CatGloss/context/colimit)
-[Q1725874](https://www.wikidata.org/wiki/Q1725874),[Cartesian closed category](https://mathgloss.github.io/CatGloss/context/cartesian_closed_category)
-[Q244772](https://www.wikidata.org/wiki/Q244772),[Filtered](https://mathgloss.github.io/CatGloss/context/filtered)
-[Q3485002](https://www.wikidata.org/wiki/Q3485002),[Left](https://mathgloss.github.io/CatGloss/context/left)
-[Q1987578](https://www.wikidata.org/wiki/Q1987578),[Unit interval](https://mathgloss.github.io/CatGloss/context/unit_interval)
-[Q3062935](https://www.wikidata.org/wiki/Q3062935),[Coalgebra](https://mathgloss.github.io/CatGloss/context/coalgebra)
-[Q1630568](https://www.wikidata.org/wiki/Q1630568),[Comonad](https://mathgloss.github.io/CatGloss/context/comonad)
-[Q5161408](https://www.wikidata.org/wiki/Q5161408),[Connected](https://mathgloss.github.io/CatGloss/context/connected)
-[Q210481](https://www.wikidata.org/wiki/Q210481),[Terminal](https://mathgloss.github.io/CatGloss/context/terminal)
-[Q192439](https://www.wikidata.org/wiki/Q192439),[Domain of definition](https://mathgloss.github.io/CatGloss/context/domain_of_definition)
-[Q4049983](https://www.wikidata.org/wiki/Q4049983),[Cardinality](https://mathgloss.github.io/CatGloss/context/cardinality)
-[Q178377](https://www.wikidata.org/wiki/Q178377),[Induction](https://mathgloss.github.io/CatGloss/context/induction)
-[Q192439](https://www.wikidata.org/wiki/Q192439),[Domain](https://mathgloss.github.io/CatGloss/context/domain)
-[Q2844249](https://www.wikidata.org/wiki/Q2844249),[Kernel pair](https://mathgloss.github.io/CatGloss/context/kernel_pair)
-[Q14775269](https://www.wikidata.org/wiki/Q14775269),[Homotopy category](https://mathgloss.github.io/CatGloss/context/homotopy_category)
-[Q357858](https://www.wikidata.org/wiki/Q357858),[Left adjoint](https://mathgloss.github.io/CatGloss/context/left_adjoint)
-[Q320245](https://www.wikidata.org/wiki/Q320245),[Right derived functor](https://mathgloss.github.io/CatGloss/context/right_derived_functor)
-[Q864475](https://www.wikidata.org/wiki/Q864475),[Endofunctor](https://mathgloss.github.io/CatGloss/context/endofunctor)
-[Q1397439](https://www.wikidata.org/wiki/Q1397439),[Pullback](https://mathgloss.github.io/CatGloss/context/pullback)
-[Q378637](https://www.wikidata.org/wiki/Q378637),[Discrete dynamical system](https://mathgloss.github.io/CatGloss/context/discrete_dynamical_system)
-[Q199006](https://www.wikidata.org/wiki/Q199006),[Codomain](https://mathgloss.github.io/CatGloss/context/codomain)
-[Q529752](https://www.wikidata.org/wiki/Q529752),[Terminal object](https://mathgloss.github.io/CatGloss/context/terminal_object)
-[Q2020004](https://www.wikidata.org/wiki/Q2020004),[Galois extension](https://mathgloss.github.io/CatGloss/context/galois_extension)
-[Q180907](https://www.wikidata.org/wiki/Q180907),[Bijection](https://mathgloss.github.io/CatGloss/context/bijection)
-[Q17103860](https://www.wikidata.org/wiki/Q17103860),[Symmetric monoidal category](https://mathgloss.github.io/CatGloss/context/symmetric_monoidal_category)
-[Q17000267](https://www.wikidata.org/wiki/Q17000267),[Separator](https://mathgloss.github.io/CatGloss/context/separator)
-[Q1467124](https://www.wikidata.org/wiki/Q1467124),[Geometric realization](https://mathgloss.github.io/CatGloss/context/geometric_realization)
-[Q331481](https://www.wikidata.org/wiki/Q331481),[Cover](https://mathgloss.github.io/CatGloss/context/cover)
-[Q431078](https://www.wikidata.org/wiki/Q431078),[Free group](https://mathgloss.github.io/CatGloss/context/free_group)
-[Q33456](https://www.wikidata.org/wiki/Q33456),[Power](https://mathgloss.github.io/CatGloss/context/power)
-[Q6101219](https://www.wikidata.org/wiki/Q6101219),[Reflective subcategory](https://mathgloss.github.io/CatGloss/context/reflective_subcategory)
-[Q179208](https://www.wikidata.org/wiki/Q179208),[Cayley's theorem](https://mathgloss.github.io/CatGloss/context/cayley's_theorem)
-[Q522216](https://www.wikidata.org/wiki/Q522216),[Commutator subgroup](https://mathgloss.github.io/CatGloss/context/commutator_subgroup)
-[Q1756942](https://www.wikidata.org/wiki/Q1756942),[Partial function](https://mathgloss.github.io/CatGloss/context/partial_function)
-[Q298187](https://www.wikidata.org/wiki/Q298187),[Apex](https://mathgloss.github.io/CatGloss/context/apex)
-[Q875399](https://www.wikidata.org/wiki/Q875399),[Boundary](https://mathgloss.github.io/CatGloss/context/boundary)
-[Q5450381](https://www.wikidata.org/wiki/Q5450381),[Finitary](https://mathgloss.github.io/CatGloss/context/finitary)
-[Q730384](https://www.wikidata.org/wiki/Q730384),[Galois group](https://mathgloss.github.io/CatGloss/context/galois_group)
-[Q130901](https://www.wikidata.org/wiki/Q130901),[Relation](https://mathgloss.github.io/CatGloss/context/relation)
-[Q595298](https://www.wikidata.org/wiki/Q595298),[Étale space](https://mathgloss.github.io/CatGloss/context/étale_space)
-[Q25098802](https://www.wikidata.org/wiki/Q25098802),[Topological monoid](https://mathgloss.github.io/CatGloss/context/topological_monoid)
-[Q11516722](https://www.wikidata.org/wiki/Q11516722),[Finite](https://mathgloss.github.io/CatGloss/context/finite)
-[Q2361385](https://www.wikidata.org/wiki/Q2361385),[Dual](https://mathgloss.github.io/CatGloss/context/dual)
-[Q662830](https://www.wikidata.org/wiki/Q662830),[Fundamental groupoid](https://mathgloss.github.io/CatGloss/context/fundamental_groupoid)
-[Q1630568](https://www.wikidata.org/wiki/Q1630568),[Monad](https://mathgloss.github.io/CatGloss/context/monad)
-[Q235935](https://www.wikidata.org/wiki/Q235935),[Equivalent](https://mathgloss.github.io/CatGloss/context/equivalent)
-[Q1780005](https://www.wikidata.org/wiki/Q1780005),[Comma category](https://mathgloss.github.io/CatGloss/context/comma_category)
-[Q2547089](https://www.wikidata.org/wiki/Q2547089),[Subobject](https://mathgloss.github.io/CatGloss/context/subobject)
-[Q1219045](https://www.wikidata.org/wiki/Q1219045),[Affine](https://mathgloss.github.io/CatGloss/context/affine)
-[Q1347208](https://www.wikidata.org/wiki/Q1347208),[Epimorphism](https://mathgloss.github.io/CatGloss/context/epimorphism)
-[Q189112](https://www.wikidata.org/wiki/Q189112),[Isomorphic](https://mathgloss.github.io/CatGloss/context/isomorphic)
-[Q7881](https://www.wikidata.org/wiki/Q7881),[Skeletal](https://mathgloss.github.io/CatGloss/context/skeletal)
-[Q130998](https://www.wikidata.org/wiki/Q130998),[Equivalence relation](https://mathgloss.github.io/CatGloss/context/equivalence_relation)
-[Q529752](https://www.wikidata.org/wiki/Q529752),[Zero object](https://mathgloss.github.io/CatGloss/context/zero_object)
-[Q230664](https://www.wikidata.org/wiki/Q230664),[Orbit](https://mathgloss.github.io/CatGloss/context/orbit)
-[Q7098616](https://www.wikidata.org/wiki/Q7098616),[Opposite category](https://mathgloss.github.io/CatGloss/context/opposite_category)
-[Q636889](https://www.wikidata.org/wiki/Q636889),[Total derivative](https://mathgloss.github.io/CatGloss/context/total_derivative)
-[Q5072826](https://www.wikidata.org/wiki/Q5072826),[Chaotic](https://mathgloss.github.io/CatGloss/context/chaotic)
-[Q1322614](https://www.wikidata.org/wiki/Q1322614),[Limit](https://mathgloss.github.io/CatGloss/context/limit)
-[Q1454111](https://www.wikidata.org/wiki/Q1454111),[Free abelian group](https://mathgloss.github.io/CatGloss/context/free_abelian_group)
-[Q1773982](https://www.wikidata.org/wiki/Q1773982),[Kleisli category](https://mathgloss.github.io/CatGloss/context/kleisli_category)
-[Q2291918](https://www.wikidata.org/wiki/Q2291918),[Skeleton](https://mathgloss.github.io/CatGloss/context/skeleton)
-[Q483525](https://www.wikidata.org/wiki/Q483525),[Dense](https://mathgloss.github.io/CatGloss/context/dense)
-[Q1491995](https://www.wikidata.org/wiki/Q1491995),[Connected component](https://mathgloss.github.io/CatGloss/context/connected_component)
-[Q862761](https://www.wikidata.org/wiki/Q862761),[Interior](https://mathgloss.github.io/CatGloss/context/interior)
-[Q1417809](https://www.wikidata.org/wiki/Q1417809),[Universal property](https://mathgloss.github.io/CatGloss/context/universal_property)
-[Q17099363](https://www.wikidata.org/wiki/Q17099363),[Classifying space](https://mathgloss.github.io/CatGloss/context/classifying_space)
-[Q5062222](https://www.wikidata.org/wiki/Q5062222),[Center](https://mathgloss.github.io/CatGloss/context/center)
-[Q1633079](https://www.wikidata.org/wiki/Q1633079),[Pushout](https://mathgloss.github.io/CatGloss/context/pushout)
-[Q426221](https://www.wikidata.org/wiki/Q426221),[Reflector](https://mathgloss.github.io/CatGloss/context/reflector)
-[Q7241077](https://www.wikidata.org/wiki/Q7241077),[Presheaf](https://mathgloss.github.io/CatGloss/context/presheaf)
-[Q1340800](https://www.wikidata.org/wiki/Q1340800),[Endomorphism](https://mathgloss.github.io/CatGloss/context/endomorphism)
-[Q1216464](https://www.wikidata.org/wiki/Q1216464),[Abelian](https://mathgloss.github.io/CatGloss/context/abelian)
-[Q864475](https://www.wikidata.org/wiki/Q864475),[Functor](https://mathgloss.github.io/CatGloss/context/functor)
-[Q3117899](https://www.wikidata.org/wiki/Q3117899),[Opposite group](https://mathgloss.github.io/CatGloss/context/opposite_group)
-[Q1184041](https://www.wikidata.org/wiki/Q1184041),[Faithful](https://mathgloss.github.io/CatGloss/context/faithful)
-[Q184410](https://www.wikidata.org/wiki/Q184410),[Four color theorem](https://mathgloss.github.io/CatGloss/context/four_color_theorem)
-[Q188524](https://www.wikidata.org/wiki/Q188524),[Tensor](https://mathgloss.github.io/CatGloss/context/tensor)
-[Q81881](https://www.wikidata.org/wiki/Q81881),[Fork](https://mathgloss.github.io/CatGloss/context/fork)
-[Q2362924](https://www.wikidata.org/wiki/Q2362924),[Complete lattice](https://mathgloss.github.io/CatGloss/context/complete_lattice)
-[Q3968](https://www.wikidata.org/wiki/Q3968),[Algebra](https://mathgloss.github.io/CatGloss/context/algebra)
-[Q5154570](https://www.wikidata.org/wiki/Q5154570),[Coskeleton](https://mathgloss.github.io/CatGloss/context/coskeleton)
-[Q357858](https://www.wikidata.org/wiki/Q357858),[Right adjoint](https://mathgloss.github.io/CatGloss/context/right_adjoint)
-[Q746083](https://www.wikidata.org/wiki/Q746083),[Homotopy equivalence](https://mathgloss.github.io/CatGloss/context/homotopy_equivalence)
+Wikidata ID,[Context](https://mathgloss.github.io/CatGloss/context/),[Topoi](https://mathgloss.github.io/CatGloss/topoi),[BCT](https://mathgloss.github.io/CatGloss/bct/),[nLab](https://ncatlab.org/nlab/show/HomePage)
+[Q4596935](https://www.wikidata.org/wiki/Q4596935),[2-category](https://mathgloss.github.io/CatGloss/context/2-category),,,[Strict 2-category](https://ncatlab.org/nlab/show/strict+2-category)
+[Q1216464](https://www.wikidata.org/wiki/Q1216464),[Abelian](https://mathgloss.github.io/CatGloss/context/abelian),,,
+[Q318737](https://www.wikidata.org/wiki/Q318737),[Abelian category](https://mathgloss.github.io/CatGloss/context/abelian_category),,,[Abelian category](https://ncatlab.org/nlab/show/abelian+category)
+[Q1084766](https://www.wikidata.org/wiki/Q1084766),[Abstract nonsense](https://mathgloss.github.io/CatGloss/context/abstract_nonsense),,,
+[Q555097](https://www.wikidata.org/wiki/Q555097),[Accessible](https://mathgloss.github.io/CatGloss/context/accessible),,,
+[Q404330](https://www.wikidata.org/wiki/Q404330),[Additive](https://mathgloss.github.io/CatGloss/context/additive),,,
+[Q357823](https://www.wikidata.org/wiki/Q357823),[Adjunct](https://mathgloss.github.io/CatGloss/context/adjunct),,,[Adjunct](https://ncatlab.org/nlab/show/adjunct)
+[Q1219045](https://www.wikidata.org/wiki/Q1219045),[Affine](https://mathgloss.github.io/CatGloss/context/affine),,,
+[Q382698](https://www.wikidata.org/wiki/Q382698),[Affine space](https://mathgloss.github.io/CatGloss/context/affine_space),,,[Affine space](https://ncatlab.org/nlab/show/affine+space)
+[Q3968](https://www.wikidata.org/wiki/Q3968),[Algebra](https://mathgloss.github.io/CatGloss/context/algebra),,[Algebra](https://mathgloss.github.io/CatGloss/bct/algebra),[Algebra](https://ncatlab.org/nlab/show/algebra)
+[Q298187](https://www.wikidata.org/wiki/Q298187),[Apex](https://mathgloss.github.io/CatGloss/context/apex),,,
+[Q782566](https://www.wikidata.org/wiki/Q782566),[Automorphism](https://mathgloss.github.io/CatGloss/context/automorphism),,,[Automorphism](https://ncatlab.org/nlab/show/automorphism)
+[Q60790315](https://www.wikidata.org/wiki/Q60790315),[Automorphism group](https://mathgloss.github.io/CatGloss/context/automorphism_group),,,[Transformation groups](https://ncatlab.org/nlab/show/transformation+groups)
+[Q180907](https://www.wikidata.org/wiki/Q180907),[Bijection](https://mathgloss.github.io/CatGloss/context/bijection),[Bijective function](https://mathgloss.github.io/CatGloss/topoi/bijective_function),,[One-to-one correspondence](https://ncatlab.org/nlab/show/one-to-one+correspondence)
+[Q875399](https://www.wikidata.org/wiki/Q875399),[Boundary](https://mathgloss.github.io/CatGloss/context/boundary),,,
+[Q4049983](https://www.wikidata.org/wiki/Q4049983),[Cardinality](https://mathgloss.github.io/CatGloss/context/cardinality),,,
+[Q1725874](https://www.wikidata.org/wiki/Q1725874),[Cartesian closed category](https://mathgloss.github.io/CatGloss/context/cartesian_closed_category),[Cartesian closed category](https://mathgloss.github.io/CatGloss/topoi/cartesian_closed_category),[Cartesian closed](https://mathgloss.github.io/CatGloss/bct/cartesian_closed),[Locally cartesian closed category](https://ncatlab.org/nlab/show/locally+cartesian+closed+category)
+[Q5051844](https://www.wikidata.org/wiki/Q5051844),[Category of elements](https://mathgloss.github.io/CatGloss/context/category_of_elements),,[Category of elements](https://mathgloss.github.io/CatGloss/bct/category_of_elements),[Category of elements](https://ncatlab.org/nlab/show/category+of+elements)
+[Q179208](https://www.wikidata.org/wiki/Q179208),[Cayley's theorem](https://mathgloss.github.io/CatGloss/context/cayley's_theorem),,,
+[Q5062222](https://www.wikidata.org/wiki/Q5062222),[Center](https://mathgloss.github.io/CatGloss/context/center),,,[Drinfeld center](https://ncatlab.org/nlab/show/drinfeld+center)
+[Q5072826](https://www.wikidata.org/wiki/Q5072826),[Chaotic](https://mathgloss.github.io/CatGloss/context/chaotic),,,
+[Q17099363](https://www.wikidata.org/wiki/Q17099363),[Classifying space](https://mathgloss.github.io/CatGloss/context/classifying_space),,,
+[Q320357](https://www.wikidata.org/wiki/Q320357),[Closed](https://mathgloss.github.io/CatGloss/context/closed),,,
+[Q4720939](https://www.wikidata.org/wiki/Q4720939),[Closure](https://mathgloss.github.io/CatGloss/context/closure),,,
+[Q10564851](https://www.wikidata.org/wiki/Q10564851),[Closure operator](https://mathgloss.github.io/CatGloss/context/closure_operator),[Closure operator](https://mathgloss.github.io/CatGloss/topoi/closure_operator),,[Closure operator](https://ncatlab.org/nlab/show/closure+operator)
+[Q3062935](https://www.wikidata.org/wiki/Q3062935),[Coalgebra](https://mathgloss.github.io/CatGloss/context/coalgebra),,,
+[Q4370335](https://www.wikidata.org/wiki/Q4370335),[Cocomplete](https://mathgloss.github.io/CatGloss/context/cocomplete),[Finitely complete category](https://mathgloss.github.io/CatGloss/topoi/finitely_complete_category),,[Finitely complete category](https://ncatlab.org/nlab/show/finitely+complete+category)
+[Q199006](https://www.wikidata.org/wiki/Q199006),[Codomain](https://mathgloss.github.io/CatGloss/context/codomain),,,
+[Q5140810](https://www.wikidata.org/wiki/Q5140810),[Coequalizer](https://mathgloss.github.io/CatGloss/context/coequalizer),[Co-equaliser](https://mathgloss.github.io/CatGloss/topoi/co-equaliser),[Coequalizer](https://mathgloss.github.io/CatGloss/bct/coequalizer),[Coequalizer](https://ncatlab.org/nlab/show/coequalizer)
+[Q4227156](https://www.wikidata.org/wiki/Q4227156),[Coinduction](https://mathgloss.github.io/CatGloss/context/coinduction),,,[Coinduction](https://ncatlab.org/nlab/show/coinduction)
+[Q2156511](https://www.wikidata.org/wiki/Q2156511),[Cokernel](https://mathgloss.github.io/CatGloss/context/cokernel),[Cokernel](https://mathgloss.github.io/CatGloss/topoi/cokernel),,[Cokernel](https://ncatlab.org/nlab/show/cokernel)
+[Q1780005](https://www.wikidata.org/wiki/Q1780005),[Comma category](https://mathgloss.github.io/CatGloss/context/comma_category),[Comma category](https://mathgloss.github.io/CatGloss/topoi/comma_category),[Comma category](https://mathgloss.github.io/CatGloss/bct/comma_category),[Comma category](https://ncatlab.org/nlab/show/comma+category)
+[Q522216](https://www.wikidata.org/wiki/Q522216),[Commutator subgroup](https://mathgloss.github.io/CatGloss/context/commutator_subgroup),,,[Derived series](https://ncatlab.org/nlab/show/derived+series)
+[Q165474](https://www.wikidata.org/wiki/Q165474),[Commute](https://mathgloss.github.io/CatGloss/context/commute),,,
+[Q848569](https://www.wikidata.org/wiki/Q848569),[Complete](https://mathgloss.github.io/CatGloss/context/complete),,[Complete](https://mathgloss.github.io/CatGloss/bct/complete),[Complete topological vector space](https://ncatlab.org/nlab/show/complete+topological+vector+space)
+[Q2362924](https://www.wikidata.org/wiki/Q2362924),[Complete lattice](https://mathgloss.github.io/CatGloss/context/complete_lattice),,,[Complete lattice](https://ncatlab.org/nlab/show/complete+lattice)
+[Q5156688](https://www.wikidata.org/wiki/Q5156688),[Component](https://mathgloss.github.io/CatGloss/context/component),,[Component](https://mathgloss.github.io/CatGloss/bct/component),
+[Q1575634](https://www.wikidata.org/wiki/Q1575634),[Concrete category](https://mathgloss.github.io/CatGloss/context/concrete_category),,,[Concrete category](https://ncatlab.org/nlab/show/concrete+category)
+[Q1850712](https://www.wikidata.org/wiki/Q1850712),[Cone](https://mathgloss.github.io/CatGloss/context/cone),[Cone](https://mathgloss.github.io/CatGloss/topoi/cone),[Cone](https://mathgloss.github.io/CatGloss/bct/cone),
+[Q5161408](https://www.wikidata.org/wiki/Q5161408),[Connected](https://mathgloss.github.io/CatGloss/context/connected),,,[Connected category](https://ncatlab.org/nlab/show/connected+category)
+[Q1491995](https://www.wikidata.org/wiki/Q1491995),[Connected component](https://mathgloss.github.io/CatGloss/context/connected_component),,,[Locally path-connected space](https://ncatlab.org/nlab/show/locally+path-connected+space)
+[Q692689](https://www.wikidata.org/wiki/Q692689),[Coproduct](https://mathgloss.github.io/CatGloss/context/coproduct),[Coproduct](https://mathgloss.github.io/CatGloss/topoi/coproduct),[Sum](https://mathgloss.github.io/CatGloss/bct/sum),[Coproduct](https://ncatlab.org/nlab/show/coproduct)
+[Q5154570](https://www.wikidata.org/wiki/Q5154570),[Coskeleton](https://mathgloss.github.io/CatGloss/context/coskeleton),,,
+[Q344552](https://www.wikidata.org/wiki/Q344552),[Covariant](https://mathgloss.github.io/CatGloss/context/covariant),,,
+[Q331481](https://www.wikidata.org/wiki/Q331481),[Cover](https://mathgloss.github.io/CatGloss/context/cover),[Open cover](https://mathgloss.github.io/CatGloss/topoi/open_cover),,[Open cover](https://ncatlab.org/nlab/show/open+cover)
+[Q5183420](https://www.wikidata.org/wiki/Q5183420),[Create](https://mathgloss.github.io/CatGloss/context/create),,,
+[Q1144925](https://www.wikidata.org/wiki/Q1144925),[Currying](https://mathgloss.github.io/CatGloss/context/currying),,,[Currying](https://ncatlab.org/nlab/show/currying)
+[Q225014](https://www.wikidata.org/wiki/Q225014),[Cycle](https://mathgloss.github.io/CatGloss/context/cycle),,,[Cycle](https://ncatlab.org/nlab/show/cycle)
+[Q483525](https://www.wikidata.org/wiki/Q483525),[Dense](https://mathgloss.github.io/CatGloss/context/dense),,,
+[Q48996306](https://www.wikidata.org/wiki/Q48996306),[Density theorem](https://mathgloss.github.io/CatGloss/context/density_theorem),,,
+[Q843237](https://www.wikidata.org/wiki/Q843237),[Diagram](https://mathgloss.github.io/CatGloss/context/diagram),[Diagram](https://mathgloss.github.io/CatGloss/topoi/diagram),[Diagram](https://mathgloss.github.io/CatGloss/bct/diagram),
+[Q906015](https://www.wikidata.org/wiki/Q906015),[Direct limit](https://mathgloss.github.io/CatGloss/context/direct_limit),,[Direct limit](https://mathgloss.github.io/CatGloss/bct/direct_limit),[Inductive limit](https://ncatlab.org/nlab/show/inductive+limit)
+[Q378637](https://www.wikidata.org/wiki/Q378637),[Discrete dynamical system](https://mathgloss.github.io/CatGloss/context/discrete_dynamical_system),,,
+[Q338707](https://www.wikidata.org/wiki/Q338707),[Disjoint](https://mathgloss.github.io/CatGloss/context/disjoint),,,
+[Q192439](https://www.wikidata.org/wiki/Q192439),[Domain](https://mathgloss.github.io/CatGloss/context/domain),,,
+[Q752487](https://www.wikidata.org/wiki/Q752487),[Double dual](https://mathgloss.github.io/CatGloss/context/double_dual),,,[Dual vector space](https://ncatlab.org/nlab/show/dual+vector+space)
+[Q2361385](https://www.wikidata.org/wiki/Q2361385),[Dual](https://mathgloss.github.io/CatGloss/context/dual),[Duality](https://mathgloss.github.io/CatGloss/topoi/duality),[Dual](https://mathgloss.github.io/CatGloss/bct/dual),
+[Q1296024](https://www.wikidata.org/wiki/Q1296024),[Effective](https://mathgloss.github.io/CatGloss/context/effective),,,
+[Q1340800](https://www.wikidata.org/wiki/Q1340800),[Endomorphism](https://mathgloss.github.io/CatGloss/context/endomorphism),,,[Endomorphism](https://ncatlab.org/nlab/show/endomorphism)
+[Q1347208](https://www.wikidata.org/wiki/Q1347208),[Epimorphism](https://mathgloss.github.io/CatGloss/context/epimorphism),,[Epimorphism](https://mathgloss.github.io/CatGloss/bct/epimorphism),[Strong epimorphism](https://ncatlab.org/nlab/show/strong+epimorphism)
+[Q1224487](https://www.wikidata.org/wiki/Q1224487),[Equalizer](https://mathgloss.github.io/CatGloss/context/equalizer),[Equaliser](https://mathgloss.github.io/CatGloss/topoi/equaliser),[Equalizer](https://mathgloss.github.io/CatGloss/bct/equalizer),
+[Q1082992](https://www.wikidata.org/wiki/Q1082992),[Equivalence of categories](https://mathgloss.github.io/CatGloss/context/equivalence_of_categories),[Equivalence of categories](https://mathgloss.github.io/CatGloss/topoi/equivalence_of_categories),[Equivalence](https://mathgloss.github.io/CatGloss/bct/equivalence),[Equivalence of categories](https://ncatlab.org/nlab/show/equivalence+of+categories)
+[Q130998](https://www.wikidata.org/wiki/Q130998),[Equivalence relation](https://mathgloss.github.io/CatGloss/context/equivalence_relation),[Equivalence relation](https://mathgloss.github.io/CatGloss/topoi/equivalence_relation),,[Equivalence relation](https://ncatlab.org/nlab/show/equivalence+relation)
+[Q235935](https://www.wikidata.org/wiki/Q235935),[Equivalent](https://mathgloss.github.io/CatGloss/context/equivalent),,[Equivalent](https://mathgloss.github.io/CatGloss/bct/equivalent),[Equivalence](https://ncatlab.org/nlab/show/equivalence)
+[Q16033993](https://www.wikidata.org/wiki/Q16033993),[Exact](https://mathgloss.github.io/CatGloss/context/exact),,,
+[Q1184041](https://www.wikidata.org/wiki/Q1184041),[Faithful](https://mathgloss.github.io/CatGloss/context/faithful),,[Faithful](https://mathgloss.github.io/CatGloss/bct/faithful),
+[Q5446381](https://www.wikidata.org/wiki/Q5446381),[Fiber space](https://mathgloss.github.io/CatGloss/context/fiber_space),,,
+[Q244772](https://www.wikidata.org/wiki/Q244772),[Filtered](https://mathgloss.github.io/CatGloss/context/filtered),,,
+[Q5450158](https://www.wikidata.org/wiki/Q5450158),[Finest](https://mathgloss.github.io/CatGloss/context/finest),,,
+[Q5450381](https://www.wikidata.org/wiki/Q5450381),[Finitary](https://mathgloss.github.io/CatGloss/context/finitary),,,
+[Q11516722](https://www.wikidata.org/wiki/Q11516722),[Finite](https://mathgloss.github.io/CatGloss/context/finite),,[Finite](https://mathgloss.github.io/CatGloss/bct/finite),
+[Q2646117](https://www.wikidata.org/wiki/Q2646117),[Forgetful functor](https://mathgloss.github.io/CatGloss/context/forgetful_functor),[Forgetful functor](https://mathgloss.github.io/CatGloss/topoi/forgetful_functor),,[Forgetful functor](https://ncatlab.org/nlab/show/forgetful+functor)
+[Q81881](https://www.wikidata.org/wiki/Q81881),[Fork](https://mathgloss.github.io/CatGloss/context/fork),,[Fork](https://mathgloss.github.io/CatGloss/bct/fork),[Fork](https://ncatlab.org/nlab/show/fork)
+[Q184410](https://www.wikidata.org/wiki/Q184410),[Four color theorem](https://mathgloss.github.io/CatGloss/context/four_color_theorem),,,[Four-colour theorem](https://ncatlab.org/nlab/show/four-colour+theorem)
+[Q231766](https://www.wikidata.org/wiki/Q231766),[Free](https://mathgloss.github.io/CatGloss/context/free),,,
+[Q1454111](https://www.wikidata.org/wiki/Q1454111),[Free abelian group](https://mathgloss.github.io/CatGloss/context/free_abelian_group),,,[Free abelian group](https://ncatlab.org/nlab/show/free+abelian+group)
+[Q431078](https://www.wikidata.org/wiki/Q431078),[Free group](https://mathgloss.github.io/CatGloss/context/free_group),,,[Free group](https://ncatlab.org/nlab/show/free+group)
+[Q237107](https://www.wikidata.org/wiki/Q237107),[Full](https://mathgloss.github.io/CatGloss/context/full),,[Full](https://mathgloss.github.io/CatGloss/bct/full),
+[Q864475](https://www.wikidata.org/wiki/Q864475),[Functor](https://mathgloss.github.io/CatGloss/context/functor),[Covariant functor](https://mathgloss.github.io/CatGloss/topoi/covariant_functor),[Functor](https://mathgloss.github.io/CatGloss/bct/functor),[Multifunctor](https://ncatlab.org/nlab/show/multifunctor)
+[Q662830](https://www.wikidata.org/wiki/Q662830),[Fundamental groupoid](https://mathgloss.github.io/CatGloss/context/fundamental_groupoid),,,[Fundamental groupoid](https://ncatlab.org/nlab/show/fundamental+groupoid)
+[Q766522](https://www.wikidata.org/wiki/Q766522),[Fundamental theorem of Galois theory](https://mathgloss.github.io/CatGloss/context/fundamental_theorem_of_galois_theory),,,
+[Q2020004](https://www.wikidata.org/wiki/Q2020004),[Galois extension](https://mathgloss.github.io/CatGloss/context/galois_extension),,,[Galois extension](https://ncatlab.org/nlab/show/galois+extension)
+[Q730384](https://www.wikidata.org/wiki/Q730384),[Galois group](https://mathgloss.github.io/CatGloss/context/galois_group),,,[Galois group](https://ncatlab.org/nlab/show/galois+group)
+[Q1467124](https://www.wikidata.org/wiki/Q1467124),[Geometric realization](https://mathgloss.github.io/CatGloss/context/geometric_realization),,,[Simplicial set](https://ncatlab.org/nlab/show/simplicial+set)
+[Q3041173](https://www.wikidata.org/wiki/Q3041173),[Group extension](https://mathgloss.github.io/CatGloss/context/group_extension),,,[Group extension](https://ncatlab.org/nlab/show/group+extension)
+[Q1196038](https://www.wikidata.org/wiki/Q1196038),[Groupoid](https://mathgloss.github.io/CatGloss/context/groupoid),,,[Groupoid](https://ncatlab.org/nlab/show/groupoid)
+[Q202906](https://www.wikidata.org/wiki/Q202906),[Homeomorphism](https://mathgloss.github.io/CatGloss/context/homeomorphism),[Homeomorphic](https://mathgloss.github.io/CatGloss/topoi/homeomorphic),,[Homeomorphism](https://ncatlab.org/nlab/show/homeomorphism)
+[Q1144780](https://www.wikidata.org/wiki/Q1144780),[Homology](https://mathgloss.github.io/CatGloss/context/homology),,,[Exact triangle](https://ncatlab.org/nlab/show/exact+triangle)
+[Q215111](https://www.wikidata.org/wiki/Q215111),[Homomorphism](https://mathgloss.github.io/CatGloss/context/homomorphism),,,[Homomorphism](https://ncatlab.org/nlab/show/homomorphism)
+[Q14775269](https://www.wikidata.org/wiki/Q14775269),[Homotopy category](https://mathgloss.github.io/CatGloss/context/homotopy_category),,,[Homotopy category](https://ncatlab.org/nlab/show/homotopy+category)
+[Q746083](https://www.wikidata.org/wiki/Q746083),[Homotopy equivalence](https://mathgloss.github.io/CatGloss/context/homotopy_equivalence),,,[Null homotopy](https://ncatlab.org/nlab/show/null+homotopy)
+[Q1948412](https://www.wikidata.org/wiki/Q1948412),[Identity morphism](https://mathgloss.github.io/CatGloss/context/identity_morphism),[Hom-set](https://mathgloss.github.io/CatGloss/topoi/hom-set),[Arrow](https://mathgloss.github.io/CatGloss/bct/arrow),[Morphism](https://ncatlab.org/nlab/show/morphism)
+[Q860530](https://www.wikidata.org/wiki/Q860530),[Image](https://mathgloss.github.io/CatGloss/context/image),,,
+[Q178377](https://www.wikidata.org/wiki/Q178377),[Induction](https://mathgloss.github.io/CatGloss/context/induction),,,
+[Q378408](https://www.wikidata.org/wiki/Q378408),[Initial](https://mathgloss.github.io/CatGloss/context/initial),,[Initial](https://mathgloss.github.io/CatGloss/bct/initial),
+[Q862761](https://www.wikidata.org/wiki/Q862761),[Interior](https://mathgloss.github.io/CatGloss/context/interior),,,[Interior point](https://ncatlab.org/nlab/show/interior+point)
+[Q17141489](https://www.wikidata.org/wiki/Q17141489),[Intersection](https://mathgloss.github.io/CatGloss/context/intersection),,,[Intersection](https://ncatlab.org/nlab/show/intersection)
+[Q2634828](https://www.wikidata.org/wiki/Q2634828),[Inverse limit](https://mathgloss.github.io/CatGloss/context/inverse_limit),,,[Projective limit](https://ncatlab.org/nlab/show/projective+limit)
+[Q189112](https://www.wikidata.org/wiki/Q189112),[Isomorphic](https://mathgloss.github.io/CatGloss/context/isomorphic),,[Isomorphic](https://mathgloss.github.io/CatGloss/bct/isomorphic),[Isomorphism](https://ncatlab.org/nlab/show/isomorphism)
+[Q6086107](https://www.wikidata.org/wiki/Q6086107),[Isomorphism of categories](https://mathgloss.github.io/CatGloss/context/isomorphism_of_categories),,,
+[Q506041](https://www.wikidata.org/wiki/Q506041),[Jacobian matrix](https://mathgloss.github.io/CatGloss/context/jacobian_matrix),,,
+[Q2920416](https://www.wikidata.org/wiki/Q2920416),[Kernel](https://mathgloss.github.io/CatGloss/context/kernel),,,
+[Q2844249](https://www.wikidata.org/wiki/Q2844249),[Kernel pair](https://mathgloss.github.io/CatGloss/context/kernel_pair),[Kernel pair](https://mathgloss.github.io/CatGloss/topoi/kernel_pair),,[Regular logic](https://ncatlab.org/nlab/show/regular+logic)
+[Q1773982](https://www.wikidata.org/wiki/Q1773982),[Kleisli category](https://mathgloss.github.io/CatGloss/context/kleisli_category),,,[Kleisli triple](https://ncatlab.org/nlab/show/kleisli+triple)
+[Q3485002](https://www.wikidata.org/wiki/Q3485002),[Left](https://mathgloss.github.io/CatGloss/context/left),,,
+[Q133105](https://www.wikidata.org/wiki/Q133105),[Leg](https://mathgloss.github.io/CatGloss/context/leg),,,
+[Q1322614](https://www.wikidata.org/wiki/Q1322614),[Limit](https://mathgloss.github.io/CatGloss/context/limit),[Limit](https://mathgloss.github.io/CatGloss/topoi/limit),[Limit](https://mathgloss.github.io/CatGloss/bct/limit),[Continuous functor](https://ncatlab.org/nlab/show/continuous+functor)
+[Q251307](https://www.wikidata.org/wiki/Q251307),[Localization](https://mathgloss.github.io/CatGloss/context/localization),,,[Localization](https://ncatlab.org/nlab/show/localization)
+[Q4672496](https://www.wikidata.org/wiki/Q4672496),[Locally presentable category](https://mathgloss.github.io/CatGloss/context/locally_presentable_category),,,[Locally presentable category](https://ncatlab.org/nlab/show/locally+presentable+category)
+[Q13635346](https://www.wikidata.org/wiki/Q13635346),[Locally small](https://mathgloss.github.io/CatGloss/context/locally_small),[Locally small](https://mathgloss.github.io/CatGloss/topoi/locally_small),[Locally small](https://mathgloss.github.io/CatGloss/bct/locally_small),[Tensor product of functors](https://ncatlab.org/nlab/show/tensor+product+of+functors)
+[Q1503423](https://www.wikidata.org/wiki/Q1503423),[Loop](https://mathgloss.github.io/CatGloss/context/loop),,,[Quasigroup](https://ncatlab.org/nlab/show/quasigroup)
+[Q1630568](https://www.wikidata.org/wiki/Q1630568),[Monad](https://mathgloss.github.io/CatGloss/context/monad),[Monad](https://mathgloss.github.io/CatGloss/topoi/monad),,[Monadic functor](https://ncatlab.org/nlab/show/monadic+functor)
+[Q6897858](https://www.wikidata.org/wiki/Q6897858),[Monadic](https://mathgloss.github.io/CatGloss/context/monadic),,,
+[Q2785361](https://www.wikidata.org/wiki/Q2785361),[Monoid](https://mathgloss.github.io/CatGloss/context/monoid),[Monoid](https://mathgloss.github.io/CatGloss/topoi/monoid),,[Comonoid](https://ncatlab.org/nlab/show/comonoid)
+[Q1945067](https://www.wikidata.org/wiki/Q1945067),[Monomorphism](https://mathgloss.github.io/CatGloss/context/monomorphism),,[Monomorphism](https://mathgloss.github.io/CatGloss/bct/monomorphism),[Regular monomorphism](https://ncatlab.org/nlab/show/regular+monomorphism)
+[Q40276](https://www.wikidata.org/wiki/Q40276),[Multiplication](https://mathgloss.github.io/CatGloss/context/multiplication),,,[Multiplication](https://ncatlab.org/nlab/show/multiplication)
+[Q145825](https://www.wikidata.org/wiki/Q145825),[Nadir](https://mathgloss.github.io/CatGloss/context/nadir),,,
+[Q1442189](https://www.wikidata.org/wiki/Q1442189),[Natural isomorphism](https://mathgloss.github.io/CatGloss/context/natural_isomorphism),[Natural transformation](https://mathgloss.github.io/CatGloss/topoi/natural_transformation),[Natural isomorphism](https://mathgloss.github.io/CatGloss/bct/natural_isomorphism),[Unnatural isomorphism](https://ncatlab.org/nlab/show/unnatural+isomorphism)
+[Q719395](https://www.wikidata.org/wiki/Q719395),[Object](https://mathgloss.github.io/CatGloss/context/object),,[Object](https://mathgloss.github.io/CatGloss/bct/object),[Small category](https://ncatlab.org/nlab/show/small+category)
+[Q7098616](https://www.wikidata.org/wiki/Q7098616),[Opposite category](https://mathgloss.github.io/CatGloss/context/opposite_category),[Opposite category](https://mathgloss.github.io/CatGloss/topoi/opposite_category),,[Opposite category](https://ncatlab.org/nlab/show/opposite+category)
+[Q3117899](https://www.wikidata.org/wiki/Q3117899),[Opposite group](https://mathgloss.github.io/CatGloss/context/opposite_group),,,
+[Q230664](https://www.wikidata.org/wiki/Q230664),[Orbit](https://mathgloss.github.io/CatGloss/context/orbit),,,
+[Q311627](https://www.wikidata.org/wiki/Q311627),[P-adic integer](https://mathgloss.github.io/CatGloss/context/p-adic_integer),,,[P-adic number](https://ncatlab.org/nlab/show/p-adic+number)
+[Q1756942](https://www.wikidata.org/wiki/Q1756942),[Partial function](https://mathgloss.github.io/CatGloss/context/partial_function),[Partial function](https://mathgloss.github.io/CatGloss/topoi/partial_function),[Partial function](https://mathgloss.github.io/CatGloss/bct/partial_function),[Partial function](https://ncatlab.org/nlab/show/partial+function)
+[Q1366002](https://www.wikidata.org/wiki/Q1366002),[Path](https://mathgloss.github.io/CatGloss/context/path),[Path](https://mathgloss.github.io/CatGloss/topoi/path),,
+[Q9248237](https://www.wikidata.org/wiki/Q9248237),[Pointwise](https://mathgloss.github.io/CatGloss/context/pointwise),,,[Pointwise order](https://ncatlab.org/nlab/show/pointwise+order)
+[Q33456](https://www.wikidata.org/wiki/Q33456),[Power](https://mathgloss.github.io/CatGloss/context/power),[Exponentiation](https://mathgloss.github.io/CatGloss/topoi/exponentiation),[Power](https://mathgloss.github.io/CatGloss/bct/power),
+[Q7241053](https://www.wikidata.org/wiki/Q7241053),[Preserve](https://mathgloss.github.io/CatGloss/context/preserve),[Preserve](https://mathgloss.github.io/CatGloss/topoi/preserve),,
+[Q7241077](https://www.wikidata.org/wiki/Q7241077),[Presheaf](https://mathgloss.github.io/CatGloss/context/presheaf),,[Presheaf](https://mathgloss.github.io/CatGloss/bct/presheaf),[Yoneda extension](https://ncatlab.org/nlab/show/yoneda+extension)
+[Q919107](https://www.wikidata.org/wiki/Q919107),[Product](https://mathgloss.github.io/CatGloss/context/product),,[Product](https://mathgloss.github.io/CatGloss/bct/product),
+[Q1397439](https://www.wikidata.org/wiki/Q1397439),[Pullback](https://mathgloss.github.io/CatGloss/context/pullback),[Pullback square](https://mathgloss.github.io/CatGloss/topoi/pullback_square),[Pullback square](https://mathgloss.github.io/CatGloss/bct/pullback_square),
+[Q1633079](https://www.wikidata.org/wiki/Q1633079),[Pushout](https://mathgloss.github.io/CatGloss/context/pushout),[Pushout](https://mathgloss.github.io/CatGloss/topoi/pushout),[Pushout](https://mathgloss.github.io/CatGloss/bct/pushout),
+[Q120429](https://www.wikidata.org/wiki/Q120429),[Reflect](https://mathgloss.github.io/CatGloss/context/reflect),[Reflect](https://mathgloss.github.io/CatGloss/topoi/reflect),,[Reflection](https://ncatlab.org/nlab/show/reflection)
+[Q6101219](https://www.wikidata.org/wiki/Q6101219),[Reflective subcategory](https://mathgloss.github.io/CatGloss/context/reflective_subcategory),,,[Reflective subcategory](https://ncatlab.org/nlab/show/reflective+subcategory)
+[Q426221](https://www.wikidata.org/wiki/Q426221),[Reflector](https://mathgloss.github.io/CatGloss/context/reflector),,[Reflection](https://mathgloss.github.io/CatGloss/bct/reflection),
+[Q130901](https://www.wikidata.org/wiki/Q130901),[Relation](https://mathgloss.github.io/CatGloss/context/relation),,,[Functional relation](https://ncatlab.org/nlab/show/functional+relation)
+[Q2905654](https://www.wikidata.org/wiki/Q2905654),[Representation](https://mathgloss.github.io/CatGloss/context/representation),[Representation](https://mathgloss.github.io/CatGloss/topoi/representation),[Representation](https://mathgloss.github.io/CatGloss/bct/representation),
+[Q357858](https://www.wikidata.org/wiki/Q357858),[Right adjoint](https://mathgloss.github.io/CatGloss/context/right_adjoint),[Unit of adjunction](https://mathgloss.github.io/CatGloss/topoi/unit_of_adjunction),[Right adjoint](https://mathgloss.github.io/CatGloss/bct/right_adjoint),[Right adjoint](https://ncatlab.org/nlab/show/right+adjoint)
+[Q320245](https://www.wikidata.org/wiki/Q320245),[Right derived functor](https://mathgloss.github.io/CatGloss/context/right_derived_functor),,,[Derived functor](https://ncatlab.org/nlab/show/derived+functor)
+[Q7451799](https://www.wikidata.org/wiki/Q7451799),[Separating set](https://mathgloss.github.io/CatGloss/context/separating_set),,,
+[Q17000267](https://www.wikidata.org/wiki/Q17000267),[Separator](https://mathgloss.github.io/CatGloss/context/separator),[Generator](https://mathgloss.github.io/CatGloss/topoi/generator),,
+[Q2119470](https://www.wikidata.org/wiki/Q2119470),[Sierpinski space](https://mathgloss.github.io/CatGloss/context/sierpinski_space),,[Sierpinski space](https://mathgloss.github.io/CatGloss/bct/sierpinski_space),[Sierpinski space](https://ncatlab.org/nlab/show/sierpinski+space)
+[Q7881](https://www.wikidata.org/wiki/Q7881),[Skeletal](https://mathgloss.github.io/CatGloss/context/skeletal),,,[Skeleton](https://ncatlab.org/nlab/show/skeleton)
+[Q2291918](https://www.wikidata.org/wiki/Q2291918),[Skeleton](https://mathgloss.github.io/CatGloss/context/skeleton),[Skeleton](https://mathgloss.github.io/CatGloss/topoi/skeleton),,
+[Q420725](https://www.wikidata.org/wiki/Q420725),[Small](https://mathgloss.github.io/CatGloss/context/small),,[Small](https://mathgloss.github.io/CatGloss/bct/small),
+[Q7432](https://www.wikidata.org/wiki/Q7432),[Species](https://mathgloss.github.io/CatGloss/context/species),,,[Species](https://ncatlab.org/nlab/show/species)
+[Q288465](https://www.wikidata.org/wiki/Q288465),[Stabilizer](https://mathgloss.github.io/CatGloss/context/stabilizer),,,[Transitive action](https://ncatlab.org/nlab/show/transitive+action)
+[Q7631142](https://www.wikidata.org/wiki/Q7631142),[Subfunctor](https://mathgloss.github.io/CatGloss/context/subfunctor),,,[Subfunctor](https://ncatlab.org/nlab/show/subfunctor)
+[Q2547089](https://www.wikidata.org/wiki/Q2547089),[Subobject](https://mathgloss.github.io/CatGloss/context/subobject),[Subobject](https://mathgloss.github.io/CatGloss/topoi/subobject),[Quotient object](https://mathgloss.github.io/CatGloss/bct/quotient_object),[Subobject](https://ncatlab.org/nlab/show/subobject)
+[Q207326](https://www.wikidata.org/wiki/Q207326),[Summit](https://mathgloss.github.io/CatGloss/context/summit),,,
+[Q17103860](https://www.wikidata.org/wiki/Q17103860),[Symmetric monoidal category](https://mathgloss.github.io/CatGloss/context/symmetric_monoidal_category),,,[Symmetric monoidal category](https://ncatlab.org/nlab/show/symmetric+monoidal+category)
+[Q188524](https://www.wikidata.org/wiki/Q188524),[Tensor](https://mathgloss.github.io/CatGloss/context/tensor),,,[Tensor](https://ncatlab.org/nlab/show/tensor)
+[Q210481](https://www.wikidata.org/wiki/Q210481),[Terminal](https://mathgloss.github.io/CatGloss/context/terminal),,[Terminal](https://mathgloss.github.io/CatGloss/bct/terminal),
+[Q25098802](https://www.wikidata.org/wiki/Q25098802),[Topological monoid](https://mathgloss.github.io/CatGloss/context/topological_monoid),,,[Topological monoid](https://ncatlab.org/nlab/show/topological+monoid)
+[Q636889](https://www.wikidata.org/wiki/Q636889),[Total derivative](https://mathgloss.github.io/CatGloss/context/total_derivative),,,[Total derivative](https://ncatlab.org/nlab/show/total+derivative)
+[Q223683](https://www.wikidata.org/wiki/Q223683),[Transpose](https://mathgloss.github.io/CatGloss/context/transpose),,[Transpose](https://mathgloss.github.io/CatGloss/bct/transpose),[Transpose matrix](https://ncatlab.org/nlab/show/transpose+matrix)
+[Q1080547](https://www.wikidata.org/wiki/Q1080547),[Truncation](https://mathgloss.github.io/CatGloss/context/truncation),,,
+[Q1987578](https://www.wikidata.org/wiki/Q1987578),[Unit interval](https://mathgloss.github.io/CatGloss/context/unit_interval),,,
+[Q1945014](https://www.wikidata.org/wiki/Q1945014),[Unit object](https://mathgloss.github.io/CatGloss/context/unit_object),,,[Unitor](https://ncatlab.org/nlab/show/unitor)
+[Q161172](https://www.wikidata.org/wiki/Q161172),[Unital ring](https://mathgloss.github.io/CatGloss/context/unital_ring),,,[Ring object](https://ncatlab.org/nlab/show/ring+object)
+[Q386320](https://www.wikidata.org/wiki/Q386320),[Universal element](https://mathgloss.github.io/CatGloss/context/universal_element),[Representable functor](https://mathgloss.github.io/CatGloss/topoi/representable_functor),,[Universal element](https://ncatlab.org/nlab/show/universal+element)
+[Q1417809](https://www.wikidata.org/wiki/Q1417809),[Universal property](https://mathgloss.github.io/CatGloss/context/universal_property),[Universal property](https://mathgloss.github.io/CatGloss/topoi/universal_property),[Universal](https://mathgloss.github.io/CatGloss/bct/universal),[Universal construction](https://ncatlab.org/nlab/show/universal+construction)
+[Q17104639](https://www.wikidata.org/wiki/Q17104639),[Weak equivalence](https://mathgloss.github.io/CatGloss/context/weak_equivalence),,,[Weak homotopy equivalence](https://ncatlab.org/nlab/show/weak+homotopy+equivalence)
+[Q204](https://www.wikidata.org/wiki/Q204),[Zero map](https://mathgloss.github.io/CatGloss/context/zero_map),,,[Zero function](https://ncatlab.org/nlab/show/zero+function)
+[Q529752](https://www.wikidata.org/wiki/Q529752),[Zero object](https://mathgloss.github.io/CatGloss/context/zero_object),[Terminal object](https://mathgloss.github.io/CatGloss/topoi/terminal_object),,[Zero object](https://ncatlab.org/nlab/show/zero+object)
+[Q7595945](https://www.wikidata.org/wiki/Q7595945),,[2-sheaf](https://mathgloss.github.io/CatGloss/topoi/2-sheaf),,[Artin stack](https://ncatlab.org/nlab/show/artin+stack)
+[Q4669982](https://www.wikidata.org/wiki/Q4669982),,[Abstraction](https://mathgloss.github.io/CatGloss/topoi/abstraction),,
+[Q345680](https://www.wikidata.org/wiki/Q345680),,[Antecedent](https://mathgloss.github.io/CatGloss/topoi/antecedent),,[Antecedent](https://ncatlab.org/nlab/show/antecedent)
+[Q17123932](https://www.wikidata.org/wiki/Q17123932),,[Antisymmetric](https://mathgloss.github.io/CatGloss/topoi/antisymmetric),,
+[Q177251](https://www.wikidata.org/wiki/Q177251),,[Associative Law](https://mathgloss.github.io/CatGloss/topoi/associative_law),[Associativity](https://mathgloss.github.io/CatGloss/bct/associativity),[Associativity](https://ncatlab.org/nlab/show/associativity)
+[Q1896657](https://www.wikidata.org/wiki/Q1896657),,[Atom](https://mathgloss.github.io/CatGloss/topoi/atom),,[Urelement](https://ncatlab.org/nlab/show/urelement)
+[Q2328174](https://www.wikidata.org/wiki/Q2328174),,[Atomic formula](https://mathgloss.github.io/CatGloss/topoi/atomic_formula),,
+[Q179692](https://www.wikidata.org/wiki/Q179692),,[Axiom of choice](https://mathgloss.github.io/CatGloss/topoi/axiom_of_choice),[Axiom of choice](https://mathgloss.github.io/CatGloss/bct/axiom_of_choice),[Axiom of choice](https://ncatlab.org/nlab/show/axiom+of+choice)
+[Q740424](https://www.wikidata.org/wiki/Q740424),,[Axiom of extensionality](https://mathgloss.github.io/CatGloss/topoi/axiom_of_extensionality),,[Axiom of extensionality](https://ncatlab.org/nlab/show/axiom+of+extensionality)
+[Q920450](https://www.wikidata.org/wiki/Q920450),,[Axiom of infinity](https://mathgloss.github.io/CatGloss/topoi/axiom_of_infinity),,[Axiom of infinity](https://ncatlab.org/nlab/show/axiom+of+infinity)
+[Q920796](https://www.wikidata.org/wiki/Q920796),,[Axiom of pairs](https://mathgloss.github.io/CatGloss/topoi/axiom_of_pairs),,[Axiom of pairing](https://ncatlab.org/nlab/show/axiom+of+pairing)
+[Q780487](https://www.wikidata.org/wiki/Q780487),,[Axiom of separation](https://mathgloss.github.io/CatGloss/topoi/axiom_of_separation),,[Axiom of separation](https://ncatlab.org/nlab/show/axiom+of+separation)
+[Q187456](https://www.wikidata.org/wiki/Q187456),,[Bar](https://mathgloss.github.io/CatGloss/topoi/bar),,
+[Q204355](https://www.wikidata.org/wiki/Q204355),,[Biconditional](https://mathgloss.github.io/CatGloss/topoi/biconditional),,[Biconditional](https://ncatlab.org/nlab/show/biconditional)
+[Q734272](https://www.wikidata.org/wiki/Q734272),,[Bivalent](https://mathgloss.github.io/CatGloss/topoi/bivalent),,
+[Q173183](https://www.wikidata.org/wiki/Q173183),,[Boolean algebra](https://mathgloss.github.io/CatGloss/topoi/boolean_algebra),,[Boolean algebra](https://ncatlab.org/nlab/show/boolean+algebra)
+[Q595364](https://www.wikidata.org/wiki/Q595364),,[Bounded lattice](https://mathgloss.github.io/CatGloss/topoi/bounded_lattice),,
+[Q1047307](https://www.wikidata.org/wiki/Q1047307),,[Bundle](https://mathgloss.github.io/CatGloss/topoi/bundle),,
+[Q230797](https://www.wikidata.org/wiki/Q230797),,[Chain](https://mathgloss.github.io/CatGloss/topoi/chain),,
+[Q1934165](https://www.wikidata.org/wiki/Q1934165),,[Change of variables](https://mathgloss.github.io/CatGloss/topoi/change_of_variables),,
+[Q1062934](https://www.wikidata.org/wiki/Q1062934),,[Character](https://mathgloss.github.io/CatGloss/topoi/character),,
+[Q361254](https://www.wikidata.org/wiki/Q361254),,[Characteristic function](https://mathgloss.github.io/CatGloss/topoi/characteristic_function),[Characteristic function](https://mathgloss.github.io/CatGloss/bct/characteristic_function),[Characteristic function](https://ncatlab.org/nlab/show/characteristic+function)
+[Q2513496](https://www.wikidata.org/wiki/Q2513496),,[Choice function](https://mathgloss.github.io/CatGloss/topoi/choice_function),,[Choice function](https://ncatlab.org/nlab/show/choice+function)
+[Q5127787](https://www.wikidata.org/wiki/Q5127787),,[Clas](https://mathgloss.github.io/CatGloss/topoi/clas),[Clas](https://mathgloss.github.io/CatGloss/bct/clas),
+[Q236975](https://www.wikidata.org/wiki/Q236975),,[Classical logic](https://mathgloss.github.io/CatGloss/topoi/classical_logic),,[Classical logic](https://ncatlab.org/nlab/show/classical+logic)
+[Q1744628](https://www.wikidata.org/wiki/Q1744628),,[Classifier](https://mathgloss.github.io/CatGloss/topoi/classifier),,
+[Q10894825](https://www.wikidata.org/wiki/Q10894825),,[Closure algebra](https://mathgloss.github.io/CatGloss/topoi/closure_algebra),,[Closure algebra](https://ncatlab.org/nlab/show/closure+algebra)
+[Q1777803](https://www.wikidata.org/wiki/Q1777803),,[Co-unit](https://mathgloss.github.io/CatGloss/topoi/co-unit),,[Sweedler notation](https://ncatlab.org/nlab/show/sweedler+notation)
+[Q1283623](https://www.wikidata.org/wiki/Q1283623),,[Cofinality](https://mathgloss.github.io/CatGloss/topoi/cofinality),,[Cofinality](https://ncatlab.org/nlab/show/cofinality)
+[Q621542](https://www.wikidata.org/wiki/Q621542),,[Commutative diagram](https://mathgloss.github.io/CatGloss/topoi/commutative_diagram),,[Diagram chasing](https://ncatlab.org/nlab/show/diagram+chasing)
+[Q381892](https://www.wikidata.org/wiki/Q381892),,[Compact space](https://mathgloss.github.io/CatGloss/topoi/compact_space),,[Compactum](https://ncatlab.org/nlab/show/compactum)
+[Q296074](https://www.wikidata.org/wiki/Q296074),,[Compatible](https://mathgloss.github.io/CatGloss/topoi/compatible),,
+[Q5156434](https://www.wikidata.org/wiki/Q5156434),,[Complemented lattice](https://mathgloss.github.io/CatGloss/topoi/complemented_lattice),,[Orthomodular lattice](https://ncatlab.org/nlab/show/orthomodular+lattice)
+[Q5156470](https://www.wikidata.org/wiki/Q5156470),,[Complete Heyting algebra](https://mathgloss.github.io/CatGloss/topoi/complete_heyting_algebra),,[Frames and locales](https://ncatlab.org/nlab/show/frames+and+locales)
+[Q11567](https://www.wikidata.org/wiki/Q11567),,[Complex number](https://mathgloss.github.io/CatGloss/topoi/complex_number),,[Real part](https://ncatlab.org/nlab/show/real+part)
+[Q244761](https://www.wikidata.org/wiki/Q244761),,[Composition of functions](https://mathgloss.github.io/CatGloss/topoi/composition_of_functions),[Composition](https://mathgloss.github.io/CatGloss/bct/composition),
+[Q16769650](https://www.wikidata.org/wiki/Q16769650),,[Comprehension](https://mathgloss.github.io/CatGloss/topoi/comprehension),,
+[Q226931](https://www.wikidata.org/wiki/Q226931),,[Conjunction](https://mathgloss.github.io/CatGloss/topoi/conjunction),,[Conjunction](https://ncatlab.org/nlab/show/conjunction)
+[Q5161702](https://www.wikidata.org/wiki/Q5161702),,[Connective](https://mathgloss.github.io/CatGloss/topoi/connective),,[Connective](https://ncatlab.org/nlab/show/connective)
+[Q261155](https://www.wikidata.org/wiki/Q261155),,[Consequent](https://mathgloss.github.io/CatGloss/topoi/consequent),,[Consequent](https://ncatlab.org/nlab/show/consequent)
+[Q23808682](https://www.wikidata.org/wiki/Q23808682),,[Conservative functor](https://mathgloss.github.io/CatGloss/topoi/conservative_functor),,[Conservative functor](https://ncatlab.org/nlab/show/conservative+functor)
+[Q1319773](https://www.wikidata.org/wiki/Q1319773),,[Consistent theory](https://mathgloss.github.io/CatGloss/topoi/consistent_theory),,[Internal logic](https://ncatlab.org/nlab/show/internal+logic)
+[Q188248](https://www.wikidata.org/wiki/Q188248),,[Constant](https://mathgloss.github.io/CatGloss/topoi/constant),,
+[Q1137814](https://www.wikidata.org/wiki/Q1137814),,[Constructivism](https://mathgloss.github.io/CatGloss/topoi/constructivism),,[Constructive mathematics](https://ncatlab.org/nlab/show/constructive+mathematics)
+[Q5500266](https://www.wikidata.org/wiki/Q5500266),,[Continuous morphism](https://mathgloss.github.io/CatGloss/topoi/continuous_morphism),,[Free monoid](https://ncatlab.org/nlab/show/free+monoid)
+[Q173300](https://www.wikidata.org/wiki/Q173300),,[De Morgan’s law](https://mathgloss.github.io/CatGloss/topoi/de_morgan’s_law),,[De Morgan duality](https://ncatlab.org/nlab/show/de+morgan+duality)
+[Q1200750](https://www.wikidata.org/wiki/Q1200750),,[Description](https://mathgloss.github.io/CatGloss/topoi/description),,
+[Q1201068](https://www.wikidata.org/wiki/Q1201068),,[Detachment](https://mathgloss.github.io/CatGloss/topoi/detachment),,
+[Q1228851](https://www.wikidata.org/wiki/Q1228851),,[Discrete category](https://mathgloss.github.io/CatGloss/topoi/discrete_category),,[Discrete category](https://ncatlab.org/nlab/show/discrete+category)
+[Q175116](https://www.wikidata.org/wiki/Q175116),,[Discrete topology](https://mathgloss.github.io/CatGloss/topoi/discrete_topology),[Discrete topology](https://mathgloss.github.io/CatGloss/bct/discrete_topology),
+[Q215382](https://www.wikidata.org/wiki/Q215382),,[Disjoint set](https://mathgloss.github.io/CatGloss/topoi/disjoint_set),,
+[Q5282259](https://www.wikidata.org/wiki/Q5282259),,[Disjoint union](https://mathgloss.github.io/CatGloss/topoi/disjoint_union),[Disjoint union](https://mathgloss.github.io/CatGloss/bct/disjoint_union),
+[Q1651704](https://www.wikidata.org/wiki/Q1651704),,[Disjunction](https://mathgloss.github.io/CatGloss/topoi/disjunction),,[Disjunction](https://ncatlab.org/nlab/show/disjunction)
+[Q2363730](https://www.wikidata.org/wiki/Q2363730),,[Distributive lattice](https://mathgloss.github.io/CatGloss/topoi/distributive_lattice),,[Distributive lattice](https://ncatlab.org/nlab/show/distributive+lattice)
+[Q5300067](https://www.wikidata.org/wiki/Q5300067),,[Double negation](https://mathgloss.github.io/CatGloss/topoi/double_negation),,[Law of double negation](https://ncatlab.org/nlab/show/law+of+double+negation)
+[Q5310265](https://www.wikidata.org/wiki/Q5310265),,[Duality Principle](https://mathgloss.github.io/CatGloss/topoi/duality_principle),[Principle of duality](https://mathgloss.github.io/CatGloss/bct/principle_of_duality),
+[Q226183](https://www.wikidata.org/wiki/Q226183),,[Empty set](https://mathgloss.github.io/CatGloss/topoi/empty_set),,[Empty subset](https://ncatlab.org/nlab/show/empty+subset)
+[Q842346](https://www.wikidata.org/wiki/Q842346),,[Equality](https://mathgloss.github.io/CatGloss/topoi/equality),,
+[Q11345](https://www.wikidata.org/wiki/Q11345),,[Equation](https://mathgloss.github.io/CatGloss/topoi/equation),,[Equation](https://ncatlab.org/nlab/show/equation)
+[Q852705](https://www.wikidata.org/wiki/Q852705),,[Evaluation function](https://mathgloss.github.io/CatGloss/topoi/evaluation_function),,
+[Q381725](https://www.wikidata.org/wiki/Q381725),,[Exact functor](https://mathgloss.github.io/CatGloss/topoi/exact_functor),,[Exact functor](https://ncatlab.org/nlab/show/exact+functor)
+[Q468422](https://www.wikidata.org/wiki/Q468422),,[Excluded Middle](https://mathgloss.github.io/CatGloss/topoi/excluded_middle),,[Excluded middle](https://ncatlab.org/nlab/show/excluded+middle)
+[Q773483](https://www.wikidata.org/wiki/Q773483),,[Existential quantifier](https://mathgloss.github.io/CatGloss/topoi/existential_quantifier),,[Existential quantifier](https://ncatlab.org/nlab/show/existential+quantifier)
+[Q295785](https://www.wikidata.org/wiki/Q295785),,[Extension](https://mathgloss.github.io/CatGloss/topoi/extension),,[Extension](https://ncatlab.org/nlab/show/extension)
+[Q965432](https://www.wikidata.org/wiki/Q965432),,[Extensional relation](https://mathgloss.github.io/CatGloss/topoi/extensional_relation),,[Extensionality](https://ncatlab.org/nlab/show/extensionality)
+[Q5421978](https://www.wikidata.org/wiki/Q5421978),,[Extent](https://mathgloss.github.io/CatGloss/topoi/extent),,
+[Q1064276](https://www.wikidata.org/wiki/Q1064276),,[Faithful functor](https://mathgloss.github.io/CatGloss/topoi/faithful_functor),,[Full functor](https://ncatlab.org/nlab/show/full+functor)
+[Q2890850](https://www.wikidata.org/wiki/Q2890850),,[False generalisation](https://mathgloss.github.io/CatGloss/topoi/false_generalisation),,
+[Q14240380](https://www.wikidata.org/wiki/Q14240380),,[Fibre](https://mathgloss.github.io/CatGloss/topoi/fibre),,
+[Q4055684](https://www.wikidata.org/wiki/Q4055684),,[First-order sentence](https://mathgloss.github.io/CatGloss/topoi/first-order_sentence),,[Predicate logic](https://ncatlab.org/nlab/show/predicate+logic)
+[Q217608](https://www.wikidata.org/wiki/Q217608),,[Fixed point](https://mathgloss.github.io/CatGloss/topoi/fixed_point),,[Fixpoint](https://ncatlab.org/nlab/show/fixpoint)
+[Q3064613](https://www.wikidata.org/wiki/Q3064613),,[Flabby sheaf](https://mathgloss.github.io/CatGloss/topoi/flabby_sheaf),,[Soft sheaf](https://ncatlab.org/nlab/show/soft+sheaf)
+[Q976981](https://www.wikidata.org/wiki/Q976981),,[Formula](https://mathgloss.github.io/CatGloss/topoi/formula),,[Formula](https://ncatlab.org/nlab/show/formula)
+[Q227744](https://www.wikidata.org/wiki/Q227744),,[Foundation](https://mathgloss.github.io/CatGloss/topoi/foundation),,
+[Q354717](https://www.wikidata.org/wiki/Q354717),,[Fragment](https://mathgloss.github.io/CatGloss/topoi/fragment),,[Fragment](https://ncatlab.org/nlab/show/fragment)
+[Q294490](https://www.wikidata.org/wiki/Q294490),,[Frame](https://mathgloss.github.io/CatGloss/topoi/frame),,[Frame (disambiguation)](https://ncatlab.org/nlab/show/frame+(disambiguation))
+[Q3502887](https://www.wikidata.org/wiki/Q3502887),,[Free logic](https://mathgloss.github.io/CatGloss/topoi/free_logic),,
+[Q935944](https://www.wikidata.org/wiki/Q935944),,[Free variable](https://mathgloss.github.io/CatGloss/topoi/free_variable),,
+[Q541563](https://www.wikidata.org/wiki/Q541563),,[Full subcategory](https://mathgloss.github.io/CatGloss/topoi/full_subcategory),[Subcategory](https://mathgloss.github.io/CatGloss/bct/subcategory),[Subcategory](https://ncatlab.org/nlab/show/subcategory)
+[Q11348](https://www.wikidata.org/wiki/Q11348),,[Function](https://mathgloss.github.io/CatGloss/topoi/function),,[Empty function](https://ncatlab.org/nlab/show/empty+function)
+[Q242028](https://www.wikidata.org/wiki/Q242028),,[Functional abstraction](https://mathgloss.github.io/CatGloss/topoi/functional_abstraction),,[Lambda-calculus](https://ncatlab.org/nlab/show/lambda-calculus)
+[Q2007878](https://www.wikidata.org/wiki/Q2007878),,[Functor category](https://mathgloss.github.io/CatGloss/topoi/functor_category),[Functor category](https://mathgloss.github.io/CatGloss/bct/functor_category),[Functor category](https://ncatlab.org/nlab/show/functor+category)
+[Q643669](https://www.wikidata.org/wiki/Q643669),,[Generate](https://mathgloss.github.io/CatGloss/topoi/generate),,
+[Q2143621](https://www.wikidata.org/wiki/Q2143621),,[Geometric morphism](https://mathgloss.github.io/CatGloss/topoi/geometric_morphism),,[Topos theory](https://ncatlab.org/nlab/show/topos+theory)
+[Q2520842](https://www.wikidata.org/wiki/Q2520842),,[Germ](https://mathgloss.github.io/CatGloss/topoi/germ),,
+[Q5570834](https://www.wikidata.org/wiki/Q5570834),,[Global element](https://mathgloss.github.io/CatGloss/topoi/global_element),,[Global element](https://ncatlab.org/nlab/show/global+element)
+[Q83478](https://www.wikidata.org/wiki/Q83478),,[Group](https://mathgloss.github.io/CatGloss/topoi/group),,
+[Q5737878](https://www.wikidata.org/wiki/Q5737878),,[Hereditary set](https://mathgloss.github.io/CatGloss/topoi/hereditary_set),,[Pure set](https://ncatlab.org/nlab/show/pure+set)
+[Q1644136](https://www.wikidata.org/wiki/Q1644136),,[Higher-order logic](https://mathgloss.github.io/CatGloss/topoi/higher-order_logic),,[Higher-order logic](https://ncatlab.org/nlab/show/higher-order+logic)
+[Q5887297](https://www.wikidata.org/wiki/Q5887297),,[Hom-functor](https://mathgloss.github.io/CatGloss/topoi/hom-functor),,[Internal hom](https://ncatlab.org/nlab/show/internal+hom)
+[Q321119](https://www.wikidata.org/wiki/Q321119),,[Identity function](https://mathgloss.github.io/CatGloss/topoi/identity_function),,[Identity function](https://ncatlab.org/nlab/show/identity+function)
+[Q1215266](https://www.wikidata.org/wiki/Q1215266),,[Implication](https://mathgloss.github.io/CatGloss/topoi/implication),,[Implication](https://ncatlab.org/nlab/show/implication)
+[Q3149511](https://www.wikidata.org/wiki/Q3149511),,[Impredicative definition](https://mathgloss.github.io/CatGloss/topoi/impredicative_definition),,[Predicative mathematics](https://ncatlab.org/nlab/show/predicative+mathematics)
+[Q1663694](https://www.wikidata.org/wiki/Q1663694),,[Inclusion function](https://mathgloss.github.io/CatGloss/topoi/inclusion_function),,[Inclusion function](https://ncatlab.org/nlab/show/inclusion+function)
+[Q6033604](https://www.wikidata.org/wiki/Q6033604),,[Inhabited](https://mathgloss.github.io/CatGloss/topoi/inhabited),,
+[Q182003](https://www.wikidata.org/wiki/Q182003),,[Injective function](https://mathgloss.github.io/CatGloss/topoi/injective_function),,
+[Q1923256](https://www.wikidata.org/wiki/Q1923256),,[Intension](https://mathgloss.github.io/CatGloss/topoi/intension),,
+[Q5361594](https://www.wikidata.org/wiki/Q5361594),,[Intermediate logic](https://mathgloss.github.io/CatGloss/topoi/intermediate_logic),,
+[Q10879018](https://www.wikidata.org/wiki/Q10879018),,[Intuitionism](https://mathgloss.github.io/CatGloss/topoi/intuitionism),,[Intuitionistic mathematics](https://ncatlab.org/nlab/show/intuitionistic+mathematics)
+[Q176786](https://www.wikidata.org/wiki/Q176786),,[Intuitionistic logic](https://mathgloss.github.io/CatGloss/topoi/intuitionistic_logic),,[Intuitionistic logic](https://ncatlab.org/nlab/show/intuitionistic+logic)
+[Q860623](https://www.wikidata.org/wiki/Q860623),,[Inverse image](https://mathgloss.github.io/CatGloss/topoi/inverse_image),,[Preimage](https://ncatlab.org/nlab/show/preimage)
+[Q1248241](https://www.wikidata.org/wiki/Q1248241),,[Inverse relation](https://mathgloss.github.io/CatGloss/topoi/inverse_relation),,
+[Q338057](https://www.wikidata.org/wiki/Q338057),,[Invertible](https://mathgloss.github.io/CatGloss/topoi/invertible),,
+[Q1723418](https://www.wikidata.org/wiki/Q1723418),,[Kan extension](https://mathgloss.github.io/CatGloss/topoi/kan_extension),,[Kan extension](https://ncatlab.org/nlab/show/kan+extension)
+[Q192826](https://www.wikidata.org/wiki/Q192826),,[Kronecker delta](https://mathgloss.github.io/CatGloss/topoi/kronecker_delta),,[Kronecker delta](https://ncatlab.org/nlab/show/kronecker+delta)
+[Q2754968](https://www.wikidata.org/wiki/Q2754968),,[Lattice](https://mathgloss.github.io/CatGloss/topoi/lattice),,[Lattice (disambiguation)](https://ncatlab.org/nlab/show/lattice+(disambiguation))
+[Q1196892](https://www.wikidata.org/wiki/Q1196892),,[Least element](https://mathgloss.github.io/CatGloss/topoi/least_element),[Least element](https://mathgloss.github.io/CatGloss/bct/least_element),
+[Q17502105](https://www.wikidata.org/wiki/Q17502105),,[Least upper bound](https://mathgloss.github.io/CatGloss/topoi/least_upper_bound),[Greatest lower bound](https://mathgloss.github.io/CatGloss/bct/greatest_lower_bound),
+[Q44649](https://www.wikidata.org/wiki/Q44649),,[Left ideal](https://mathgloss.github.io/CatGloss/topoi/left_ideal),,
+[Q858223](https://www.wikidata.org/wiki/Q858223),,[Limit point](https://mathgloss.github.io/CatGloss/topoi/limit_point),,[Limit point](https://ncatlab.org/nlab/show/limit+point)
+[Q1052761](https://www.wikidata.org/wiki/Q1052761),,[Local homeomorphism](https://mathgloss.github.io/CatGloss/topoi/local_homeomorphism),,[Local homeomorphism](https://ncatlab.org/nlab/show/local+homeomorphism)
+[Q1762213](https://www.wikidata.org/wiki/Q1762213),,[Locally constant function](https://mathgloss.github.io/CatGloss/topoi/locally_constant_function),,[Locally constant function](https://ncatlab.org/nlab/show/locally+constant+function)
+[Q220433](https://www.wikidata.org/wiki/Q220433),,[Logically equivalent](https://mathgloss.github.io/CatGloss/topoi/logically_equivalent),,[Logical equivalence](https://ncatlab.org/nlab/show/logical+equivalence)
+[Q845691](https://www.wikidata.org/wiki/Q845691),,[Logicism](https://mathgloss.github.io/CatGloss/topoi/logicism),,
+[Q834585](https://www.wikidata.org/wiki/Q834585),,[Lower semilattice](https://mathgloss.github.io/CatGloss/topoi/lower_semilattice),,[Semilattice](https://ncatlab.org/nlab/show/semilattice)
+[Q6269005](https://www.wikidata.org/wiki/Q6269005),,[Meet](https://mathgloss.github.io/CatGloss/topoi/meet),,
+[Q18629142](https://www.wikidata.org/wiki/Q18629142),,[Member](https://mathgloss.github.io/CatGloss/topoi/member),,
+[Q193983](https://www.wikidata.org/wiki/Q193983),,[Metalanguage](https://mathgloss.github.io/CatGloss/topoi/metalanguage),,[Metalanguage](https://ncatlab.org/nlab/show/metalanguage)
+[Q1475294](https://www.wikidata.org/wiki/Q1475294),,[Minimal element](https://mathgloss.github.io/CatGloss/topoi/minimal_element),,[Maximal element](https://ncatlab.org/nlab/show/maximal+element)
+[Q845060](https://www.wikidata.org/wiki/Q845060),,[Minimum](https://mathgloss.github.io/CatGloss/topoi/minimum),,[Extremum](https://ncatlab.org/nlab/show/extremum)
+[Q210841](https://www.wikidata.org/wiki/Q210841),,[Modal logic](https://mathgloss.github.io/CatGloss/topoi/modal_logic),,[Modal logic](https://ncatlab.org/nlab/show/modal+logic)
+[Q638442](https://www.wikidata.org/wiki/Q638442),,[Modal operator](https://mathgloss.github.io/CatGloss/topoi/modal_operator),,
+[Q7449424](https://www.wikidata.org/wiki/Q7449424),,[Monoid action](https://mathgloss.github.io/CatGloss/topoi/monoid_action),,
+[Q208237](https://www.wikidata.org/wiki/Q208237),,[Monoid homomorphism](https://mathgloss.github.io/CatGloss/topoi/monoid_homomorphism),,[Submonoid](https://ncatlab.org/nlab/show/submonoid)
+[Q194404](https://www.wikidata.org/wiki/Q194404),,[Monotone function](https://mathgloss.github.io/CatGloss/topoi/monotone_function),,[Monotone function](https://ncatlab.org/nlab/show/monotone+function)
+[Q15947602](https://www.wikidata.org/wiki/Q15947602),,[Natural map](https://mathgloss.github.io/CatGloss/topoi/natural_map),,
+[Q21199](https://www.wikidata.org/wiki/Q21199),,[Natural number](https://mathgloss.github.io/CatGloss/topoi/natural_number),,[Natural number](https://ncatlab.org/nlab/show/natural+number)
+[Q6980740](https://www.wikidata.org/wiki/Q6980740),,[Natural numbers object](https://mathgloss.github.io/CatGloss/topoi/natural_numbers_object),,[Natural numbers object](https://ncatlab.org/nlab/show/natural+numbers+object)
+[Q190558](https://www.wikidata.org/wiki/Q190558),,[Negation](https://mathgloss.github.io/CatGloss/topoi/negation),,[Negation](https://ncatlab.org/nlab/show/negation)
+[Q2478475](https://www.wikidata.org/wiki/Q2478475),,[Neighbourhood](https://mathgloss.github.io/CatGloss/topoi/neighbourhood),,
+[Q4347052](https://www.wikidata.org/wiki/Q4347052),,[Object language](https://mathgloss.github.io/CatGloss/topoi/object_language),,
+[Q529641](https://www.wikidata.org/wiki/Q529641),,[One-one](https://mathgloss.github.io/CatGloss/topoi/one-one),,
+[Q229102](https://www.wikidata.org/wiki/Q229102),,[Onto](https://mathgloss.github.io/CatGloss/topoi/onto),,[Surjection](https://ncatlab.org/nlab/show/surjection)
+[Q830486](https://www.wikidata.org/wiki/Q830486),,[Open formula](https://mathgloss.github.io/CatGloss/topoi/open_formula),,
+[Q213363](https://www.wikidata.org/wiki/Q213363),,[Open set](https://mathgloss.github.io/CatGloss/topoi/open_set),,
+[Q24175351](https://www.wikidata.org/wiki/Q24175351),,[Order relation](https://mathgloss.github.io/CatGloss/topoi/order_relation),,[Order theory](https://ncatlab.org/nlab/show/order+theory)
+[Q191290](https://www.wikidata.org/wiki/Q191290),,[Ordered pair](https://mathgloss.github.io/CatGloss/topoi/ordered_pair),,[Ordered pair](https://ncatlab.org/nlab/show/ordered+pair)
+[Q191780](https://www.wikidata.org/wiki/Q191780),,[Ordinal](https://mathgloss.github.io/CatGloss/topoi/ordinal),,[Ordinal number](https://ncatlab.org/nlab/show/ordinal+number)
+[Q842755](https://www.wikidata.org/wiki/Q842755),,[Peano Postulate](https://mathgloss.github.io/CatGloss/topoi/peano_postulate),,[Peano arithmetic](https://ncatlab.org/nlab/show/peano+arithmetic)
+[Q44946](https://www.wikidata.org/wiki/Q44946),,[Point](https://mathgloss.github.io/CatGloss/topoi/point),,
+[Q474715](https://www.wikidata.org/wiki/Q474715),,[Poset](https://mathgloss.github.io/CatGloss/topoi/poset),,[Strict order](https://ncatlab.org/nlab/show/strict+order)
+[Q4391173](https://www.wikidata.org/wiki/Q4391173),,[Power object](https://mathgloss.github.io/CatGloss/topoi/power_object),[Exponential](https://mathgloss.github.io/CatGloss/bct/exponential),[Power object](https://ncatlab.org/nlab/show/power+object)
+[Q205170](https://www.wikidata.org/wiki/Q205170),,[Power set](https://mathgloss.github.io/CatGloss/topoi/power_set),[Power set](https://mathgloss.github.io/CatGloss/bct/power_set),[Power set](https://ncatlab.org/nlab/show/power+set)
+[Q1077811](https://www.wikidata.org/wiki/Q1077811),,[Powerset axiom](https://mathgloss.github.io/CatGloss/topoi/powerset_axiom),,
+[Q1425985](https://www.wikidata.org/wiki/Q1425985),,[Preorder](https://mathgloss.github.io/CatGloss/topoi/preorder),,[Quasiorder](https://ncatlab.org/nlab/show/quasiorder)
+[Q7242162](https://www.wikidata.org/wiki/Q7242162),,[Pretopology](https://mathgloss.github.io/CatGloss/topoi/pretopology),,[Pretopological space](https://ncatlab.org/nlab/show/pretopological+space)
+[Q1570472](https://www.wikidata.org/wiki/Q1570472),,[Primitive recursion](https://mathgloss.github.io/CatGloss/topoi/primitive_recursion),,
+[Q13443840](https://www.wikidata.org/wiki/Q13443840),,[Product category](https://mathgloss.github.io/CatGloss/topoi/product_category),[Product category](https://mathgloss.github.io/CatGloss/bct/product_category),[Product category](https://ncatlab.org/nlab/show/product+category)
+[Q173740](https://www.wikidata.org/wiki/Q173740),,[Product set](https://mathgloss.github.io/CatGloss/topoi/product_set),,[Cartesian square](https://ncatlab.org/nlab/show/cartesian+square)
+[Q13415428](https://www.wikidata.org/wiki/Q13415428),,[Projection](https://mathgloss.github.io/CatGloss/topoi/projection),[Projection](https://mathgloss.github.io/CatGloss/bct/projection),[Coordinate projection](https://ncatlab.org/nlab/show/coordinate+projection)
+[Q18345290](https://www.wikidata.org/wiki/Q18345290),,[Pseudo-complement](https://mathgloss.github.io/CatGloss/topoi/pseudo-complement),,
+[Q1806121](https://www.wikidata.org/wiki/Q1806121),,[Range](https://mathgloss.github.io/CatGloss/topoi/range),,
+[Q12916](https://www.wikidata.org/wiki/Q12916),,[Real number](https://mathgloss.github.io/CatGloss/topoi/real_number),,[Real number](https://ncatlab.org/nlab/show/real+number)
+[Q7301281](https://www.wikidata.org/wiki/Q7301281),,[Realisation](https://mathgloss.github.io/CatGloss/topoi/realisation),,
+[Q2136742](https://www.wikidata.org/wiki/Q2136742),,[Reflexive](https://mathgloss.github.io/CatGloss/topoi/reflexive),,
+[Q470981](https://www.wikidata.org/wiki/Q470981),,[Regularity axiom](https://mathgloss.github.io/CatGloss/topoi/regularity_axiom),,[Axiom of foundation](https://ncatlab.org/nlab/show/axiom+of+foundation)
+[Q1617044](https://www.wikidata.org/wiki/Q1617044),,[Relative pseudo-complement](https://mathgloss.github.io/CatGloss/topoi/relative_pseudo-complement),,[Heyting algebra](https://ncatlab.org/nlab/show/heyting+algebra)
+[Q1361825](https://www.wikidata.org/wiki/Q1361825),,[Replacement axiom](https://mathgloss.github.io/CatGloss/topoi/replacement_axiom),,[Axiom of replacement](https://ncatlab.org/nlab/show/axiom+of+replacement)
+[Q1308999](https://www.wikidata.org/wiki/Q1308999),,[Restriction](https://mathgloss.github.io/CatGloss/topoi/restriction),,
+[Q9588](https://www.wikidata.org/wiki/Q9588),,[Richard Nixon](https://mathgloss.github.io/CatGloss/topoi/richard_nixon),,
+[Q1068763](https://www.wikidata.org/wiki/Q1068763),,[Rule of inference](https://mathgloss.github.io/CatGloss/topoi/rule_of_inference),,
+[Q33401](https://www.wikidata.org/wiki/Q33401),,[Russell set](https://mathgloss.github.io/CatGloss/topoi/russell_set),,[Russell's paradox](https://ncatlab.org/nlab/show/russell's+paradox)
+[Q421639](https://www.wikidata.org/wiki/Q421639),,[Satisfaction](https://mathgloss.github.io/CatGloss/topoi/satisfaction),,
+[Q17103180](https://www.wikidata.org/wiki/Q17103180),,[Section](https://mathgloss.github.io/CatGloss/topoi/section),[Section](https://mathgloss.github.io/CatGloss/bct/section),[Split monomorphism](https://ncatlab.org/nlab/show/split+monomorphism)
+[Q394320](https://www.wikidata.org/wiki/Q394320),,[Selection](https://mathgloss.github.io/CatGloss/topoi/selection),,
+[Q348486](https://www.wikidata.org/wiki/Q348486),,[Sentence](https://mathgloss.github.io/CatGloss/topoi/sentence),,[Sentence](https://ncatlab.org/nlab/show/sentence)
+[Q2271572](https://www.wikidata.org/wiki/Q2271572),,[Separation principle](https://mathgloss.github.io/CatGloss/topoi/separation_principle),,
+[Q843632](https://www.wikidata.org/wiki/Q843632),,[Sequent](https://mathgloss.github.io/CatGloss/topoi/sequent),,[Sequent](https://ncatlab.org/nlab/show/sequent)
+[Q2518298](https://www.wikidata.org/wiki/Q2518298),,[Set](https://mathgloss.github.io/CatGloss/topoi/set),[Set](https://mathgloss.github.io/CatGloss/bct/set),
+[Q379825](https://www.wikidata.org/wiki/Q379825),,[Set membership](https://mathgloss.github.io/CatGloss/topoi/set_membership),,[Membership relation](https://ncatlab.org/nlab/show/membership+relation)
+[Q12482](https://www.wikidata.org/wiki/Q12482),,[Set theory](https://mathgloss.github.io/CatGloss/topoi/set_theory),,[Set theory](https://ncatlab.org/nlab/show/set+theory)
+[Q5572389](https://www.wikidata.org/wiki/Q5572389),,[Sheafification](https://mathgloss.github.io/CatGloss/topoi/sheafification),,[Sheafification](https://ncatlab.org/nlab/show/sheafification)
+[Q7511782](https://www.wikidata.org/wiki/Q7511782),,[Sieve](https://mathgloss.github.io/CatGloss/topoi/sieve),,
+[Q1165112](https://www.wikidata.org/wiki/Q1165112),,[Singleton](https://mathgloss.github.io/CatGloss/topoi/singleton),,
+[Q1062242](https://www.wikidata.org/wiki/Q1062242),,[Site](https://mathgloss.github.io/CatGloss/topoi/site),,[Étale site](https://ncatlab.org/nlab/show/étale+site)
+[Q246475](https://www.wikidata.org/wiki/Q246475),,[Sober](https://mathgloss.github.io/CatGloss/topoi/sober),,
+[Q347599](https://www.wikidata.org/wiki/Q347599),,[Sort](https://mathgloss.github.io/CatGloss/topoi/sort),,
+[Q224772](https://www.wikidata.org/wiki/Q224772),,[Source](https://mathgloss.github.io/CatGloss/topoi/source),,[Source](https://ncatlab.org/nlab/show/source)
+[Q17103642](https://www.wikidata.org/wiki/Q17103642),,[Stalk](https://mathgloss.github.io/CatGloss/topoi/stalk),,
+[Q6035663](https://www.wikidata.org/wiki/Q6035663),,[Standard model](https://mathgloss.github.io/CatGloss/topoi/standard_model),,
+[Q1724688](https://www.wikidata.org/wiki/Q1724688),,[Strict](https://mathgloss.github.io/CatGloss/topoi/strict),,
+[Q7631737](https://www.wikidata.org/wiki/Q7631737),,[Subobject classifier](https://mathgloss.github.io/CatGloss/topoi/subobject_classifier),,[Subobject classifier](https://ncatlab.org/nlab/show/subobject+classifier)
+[Q177646](https://www.wikidata.org/wiki/Q177646),,[Subset](https://mathgloss.github.io/CatGloss/topoi/subset),,[Subset](https://ncatlab.org/nlab/show/subset)
+[Q40754](https://www.wikidata.org/wiki/Q40754),,[Subtraction](https://mathgloss.github.io/CatGloss/topoi/subtraction),,[Subtraction](https://ncatlab.org/nlab/show/subtraction)
+[Q7632653](https://www.wikidata.org/wiki/Q7632653),,[Successor function](https://mathgloss.github.io/CatGloss/topoi/successor_function),,
+[Q875267](https://www.wikidata.org/wiki/Q875267),,[Sufficient](https://mathgloss.github.io/CatGloss/topoi/sufficient),,
+[Q1136376](https://www.wikidata.org/wiki/Q1136376),,[Support](https://mathgloss.github.io/CatGloss/topoi/support),,[Support of a function](https://ncatlab.org/nlab/show/support+of+a+function)
+[Q12485](https://www.wikidata.org/wiki/Q12485),,[Symmetric](https://mathgloss.github.io/CatGloss/topoi/symmetric),,[Symmetry](https://ncatlab.org/nlab/show/symmetry)
+[Q230479](https://www.wikidata.org/wiki/Q230479),,[Target](https://mathgloss.github.io/CatGloss/topoi/target),,[Target](https://ncatlab.org/nlab/show/target)
+[Q13560073](https://www.wikidata.org/wiki/Q13560073),,[Tautology](https://mathgloss.github.io/CatGloss/topoi/tautology),,[Tautology](https://ncatlab.org/nlab/show/tautology)
+[Q1318370](https://www.wikidata.org/wiki/Q1318370),,[Term](https://mathgloss.github.io/CatGloss/topoi/term),,
+[Q17988630](https://www.wikidata.org/wiki/Q17988630),,[Theory](https://mathgloss.github.io/CatGloss/topoi/theory),,
+[Q42989](https://www.wikidata.org/wiki/Q42989),,[Topology](https://mathgloss.github.io/CatGloss/topoi/topology),,[Topology](https://ncatlab.org/nlab/show/topology)
+[Q1501387](https://www.wikidata.org/wiki/Q1501387),,[Transitive closure](https://mathgloss.github.io/CatGloss/topoi/transitive_closure),,[Transitive closure](https://ncatlab.org/nlab/show/transitive+closure)
+[Q64861](https://www.wikidata.org/wiki/Q64861),,[Transitive relation](https://mathgloss.github.io/CatGloss/topoi/transitive_relation),,[Transitive relation](https://ncatlab.org/nlab/show/transitive+relation)
+[Q671944](https://www.wikidata.org/wiki/Q671944),,[Transitive set](https://mathgloss.github.io/CatGloss/topoi/transitive_set),,[Transitive set](https://ncatlab.org/nlab/show/transitive+set)
+[Q272735](https://www.wikidata.org/wiki/Q272735),,[Tree](https://mathgloss.github.io/CatGloss/topoi/tree),,
+[Q913874](https://www.wikidata.org/wiki/Q913874),,[Truth-function](https://mathgloss.github.io/CatGloss/topoi/truth-function),,
+[Q185359](https://www.wikidata.org/wiki/Q185359),,[Union of sets](https://mathgloss.github.io/CatGloss/topoi/union_of_sets),,
+[Q784645](https://www.wikidata.org/wiki/Q784645),,[Universal instantiation](https://mathgloss.github.io/CatGloss/topoi/universal_instantiation),,
+[Q126695](https://www.wikidata.org/wiki/Q126695),,[Universal quantifier](https://mathgloss.github.io/CatGloss/topoi/universal_quantifier),,[Universal quantifier](https://ncatlab.org/nlab/show/universal+quantifier)
+[Q13222579](https://www.wikidata.org/wiki/Q13222579),,[Upper bound](https://mathgloss.github.io/CatGloss/topoi/upper_bound),[Upper bound](https://mathgloss.github.io/CatGloss/bct/upper_bound),[Upper bound](https://ncatlab.org/nlab/show/upper+bound)
+[Q365832](https://www.wikidata.org/wiki/Q365832),,[Valuation](https://mathgloss.github.io/CatGloss/topoi/valuation),,[Valuation](https://ncatlab.org/nlab/show/valuation)
+[Q852662](https://www.wikidata.org/wiki/Q852662),,[Value assignment](https://mathgloss.github.io/CatGloss/topoi/value_assignment),,
+[Q338021](https://www.wikidata.org/wiki/Q338021),,[Well-founded relation](https://mathgloss.github.io/CatGloss/topoi/well-founded_relation),,[Well-founded relation](https://ncatlab.org/nlab/show/well-founded+relation)
+[Q320577](https://www.wikidata.org/wiki/Q320577),,[Yoneda lemma](https://mathgloss.github.io/CatGloss/topoi/yoneda_lemma),[Yoneda embedding](https://mathgloss.github.io/CatGloss/bct/yoneda_embedding),[Yoneda lemma](https://ncatlab.org/nlab/show/yoneda+lemma)
+[Q136080](https://www.wikidata.org/wiki/Q136080),,[ZF](https://mathgloss.github.io/CatGloss/topoi/zf),,
+[Q4724020](https://www.wikidata.org/wiki/Q4724020),,,[Algebraic theory](https://mathgloss.github.io/CatGloss/bct/algebraic_theory),[Algebraic theory](https://ncatlab.org/nlab/show/algebraic+theory)
+[Q1086961](https://www.wikidata.org/wiki/Q1086961),,,[Bilinear map](https://mathgloss.github.io/CatGloss/bct/bilinear_map),[Bilinear map](https://ncatlab.org/nlab/show/bilinear+map)
+[Q444936](https://www.wikidata.org/wiki/Q444936),,,[Canonical](https://mathgloss.github.io/CatGloss/bct/canonical),[Canonical](https://ncatlab.org/nlab/show/canonical)
+[Q1208187](https://www.wikidata.org/wiki/Q1208187),,,[Diagonal functor](https://mathgloss.github.io/CatGloss/bct/diagonal_functor),[Diagonal functor](https://ncatlab.org/nlab/show/diagonal+functor)
+[Q5358816](https://www.wikidata.org/wiki/Q5358816),,,[Element](https://mathgloss.github.io/CatGloss/bct/element),
+[Q267903](https://www.wikidata.org/wiki/Q267903),,,[Epic](https://mathgloss.github.io/CatGloss/bct/epic),
+[Q256355](https://www.wikidata.org/wiki/Q256355),,,[Equivariant map](https://mathgloss.github.io/CatGloss/bct/equivariant_map),[Intertwiner](https://ncatlab.org/nlab/show/intertwiner)
+[Q1379672](https://www.wikidata.org/wiki/Q1379672),,,[Evaluation](https://mathgloss.github.io/CatGloss/bct/evaluation),
+[Q5500272](https://www.wikidata.org/wiki/Q5500272),,,[Free functor](https://mathgloss.github.io/CatGloss/bct/free_functor),[Free object](https://ncatlab.org/nlab/show/free+object)
+[Q609647](https://www.wikidata.org/wiki/Q609647),,,[Identity](https://mathgloss.github.io/CatGloss/bct/identity),
+[Q224353](https://www.wikidata.org/wiki/Q224353),,,[Inverse](https://mathgloss.github.io/CatGloss/bct/inverse),[Inverse](https://ncatlab.org/nlab/show/inverse)
+[Q1555242](https://www.wikidata.org/wiki/Q1555242),,,[Left regular representation](https://mathgloss.github.io/CatGloss/bct/left_regular_representation),[Regular representation](https://ncatlab.org/nlab/show/regular+representation)
+[Q370502](https://www.wikidata.org/wiki/Q370502),,,[Map](https://mathgloss.github.io/CatGloss/bct/map),
+[Q6899873](https://www.wikidata.org/wiki/Q6899873),,,[Monic](https://mathgloss.github.io/CatGloss/bct/monic),
+[Q161519](https://www.wikidata.org/wiki/Q161519),,,[Permutation](https://mathgloss.github.io/CatGloss/bct/permutation),[Permutation](https://ncatlab.org/nlab/show/permutation)
+[Q408620](https://www.wikidata.org/wiki/Q408620),,,[Regular](https://mathgloss.github.io/CatGloss/bct/regular),[Regularity](https://ncatlab.org/nlab/show/regularity)
+[Q1155772](https://www.wikidata.org/wiki/Q1155772),,,[Scheme](https://mathgloss.github.io/CatGloss/bct/scheme),
+[Q133250](https://www.wikidata.org/wiki/Q133250),,,[Sequence](https://mathgloss.github.io/CatGloss/bct/sequence),[Sequence](https://ncatlab.org/nlab/show/sequence)
+[Q207961](https://www.wikidata.org/wiki/Q207961),,,[Shape](https://mathgloss.github.io/CatGloss/bct/shape),[Shape](https://ncatlab.org/nlab/show/shape)
+[Q2033899](https://www.wikidata.org/wiki/Q2033899),,,[Stone-Cech compactification](https://mathgloss.github.io/CatGloss/bct/stone-cech_compactification),[Stone-Čech compactification](https://ncatlab.org/nlab/show/stone-čech+compactification)
+[Q1163016](https://www.wikidata.org/wiki/Q1163016),,,[Tensor product](https://mathgloss.github.io/CatGloss/bct/tensor_product),[Tensor product of vector spaces](https://ncatlab.org/nlab/show/tensor+product+of+vector+spaces)
+[Q356743](https://www.wikidata.org/wiki/Q356743),,,[Topo](https://mathgloss.github.io/CatGloss/bct/topo),
+[Q369377](https://www.wikidata.org/wiki/Q369377),,,[Total order](https://mathgloss.github.io/CatGloss/bct/total_order),[Total order](https://ncatlab.org/nlab/show/total+order)
+[Q1056428](https://www.wikidata.org/wiki/Q1056428),,,[Type](https://mathgloss.github.io/CatGloss/bct/type),[Type theory](https://ncatlab.org/nlab/show/type+theory)
+[Q295346](https://www.wikidata.org/wiki/Q295346),,,[Vertex](https://mathgloss.github.io/CatGloss/bct/vertex),[Vertex](https://ncatlab.org/nlab/show/vertex)
+[Q595298](https://www.wikidata.org/wiki/Q595298),[Étale space](https://mathgloss.github.io/CatGloss/context/étale_space),[Pre-sheaf](https://mathgloss.github.io/CatGloss/topoi/pre-sheaf),,[Étale space](https://ncatlab.org/nlab/show/étale+space)

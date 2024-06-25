@@ -1,0 +1,399 @@
+Wikidata ID,context,topoi,bct,nlab
+Q4596935,2-category,,,Strict 2-category
+Q1216464,Abelian,,,
+Q318737,Abelian category,,,Abelian category
+Q1084766,Abstract nonsense,,,
+Q555097,Accessible,,,
+Q404330,Additive,,,
+Q357823,Adjunct,,,Adjunct
+Q1219045,Affine,,,
+Q382698,Affine space,,,Affine space
+Q3968,Algebra,,Algebra,Algebra
+Q298187,Apex,,,
+Q782566,Automorphism,,,Automorphism
+Q60790315,Automorphism group,,,Transformation groups
+Q180907,Bijection,Bijective function,,One-to-one correspondence
+Q875399,Boundary,,,
+Q4049983,Cardinality,,,
+Q1725874,Cartesian closed category,Cartesian closed category,Cartesian closed,Locally cartesian closed category
+Q5051844,Category of elements,,Category of elements,Category of elements
+Q179208,Cayley's theorem,,,
+Q5062222,Center,,,Drinfeld center
+Q5072826,Chaotic,,,
+Q17099363,Classifying space,,,
+Q320357,Closed,,,
+Q4720939,Closure,,,
+Q10564851,Closure operator,Closure operator,,Closure operator
+Q3062935,Coalgebra,,,
+Q4370335,Cocomplete,Finitely complete category,,Finitely complete category
+Q199006,Codomain,,,
+Q5140810,Coequalizer,Co-equaliser,Coequalizer,Coequalizer
+Q4227156,Coinduction,,,Coinduction
+Q2156511,Cokernel,Cokernel,,Cokernel
+Q1780005,Comma category,Comma category,Comma category,Comma category
+Q522216,Commutator subgroup,,,Derived series
+Q165474,Commute,,,
+Q848569,Complete,,Complete,Complete topological vector space
+Q2362924,Complete lattice,,,Complete lattice
+Q5156688,Component,,Component,
+Q1575634,Concrete category,,,Concrete category
+Q1850712,Cone,Cone,Cone,
+Q5161408,Connected,,,Connected category
+Q1491995,Connected component,,,Locally path-connected space
+Q692689,Coproduct,Coproduct,Sum,Coproduct
+Q5154570,Coskeleton,,,
+Q344552,Covariant,,,
+Q331481,Cover,Open cover,,Open cover
+Q5183420,Create,,,
+Q1144925,Currying,,,Currying
+Q225014,Cycle,,,Cycle
+Q483525,Dense,,,
+Q48996306,Density theorem,,,
+Q843237,Diagram,Diagram,Diagram,
+Q906015,Direct limit,,Direct limit,Inductive limit
+Q378637,Discrete dynamical system,,,
+Q338707,Disjoint,,,
+Q192439,Domain,,,
+Q752487,Double dual,,,Dual vector space
+Q2361385,Dual,Duality,Dual,
+Q1296024,Effective,,,
+Q1340800,Endomorphism,,,Endomorphism
+Q1347208,Epimorphism,,Epimorphism,Strong epimorphism
+Q1224487,Equalizer,Equaliser,Equalizer,
+Q1082992,Equivalence of categories,Equivalence of categories,Equivalence,Equivalence of categories
+Q130998,Equivalence relation,Equivalence relation,,Equivalence relation
+Q235935,Equivalent,,Equivalent,Equivalence
+Q16033993,Exact,,,
+Q1184041,Faithful,,Faithful,
+Q5446381,Fiber space,,,
+Q244772,Filtered,,,
+Q5450158,Finest,,,
+Q5450381,Finitary,,,
+Q11516722,Finite,,Finite,
+Q2646117,Forgetful functor,Forgetful functor,,Forgetful functor
+Q81881,Fork,,Fork,Fork
+Q184410,Four color theorem,,,Four-colour theorem
+Q231766,Free,,,
+Q1454111,Free abelian group,,,Free abelian group
+Q431078,Free group,,,Free group
+Q237107,Full,,Full,
+Q864475,Functor,Covariant functor,Functor,Multifunctor
+Q662830,Fundamental groupoid,,,Fundamental groupoid
+Q766522,Fundamental theorem of Galois theory,,,
+Q2020004,Galois extension,,,Galois extension
+Q730384,Galois group,,,Galois group
+Q1467124,Geometric realization,,,Simplicial set
+Q3041173,Group extension,,,Group extension
+Q1196038,Groupoid,,,Groupoid
+Q202906,Homeomorphism,Homeomorphic,,Homeomorphism
+Q1144780,Homology,,,Exact triangle
+Q215111,Homomorphism,,,Homomorphism
+Q14775269,Homotopy category,,,Homotopy category
+Q746083,Homotopy equivalence,,,Null homotopy
+Q1948412,Identity morphism,Hom-set,Arrow,Morphism
+Q860530,Image,,,
+Q178377,Induction,,,
+Q378408,Initial,,Initial,
+Q862761,Interior,,,Interior point
+Q17141489,Intersection,,,Intersection
+Q2634828,Inverse limit,,,Projective limit
+Q189112,Isomorphic,,Isomorphic,Isomorphism
+Q6086107,Isomorphism of categories,,,
+Q506041,Jacobian matrix,,,
+Q2920416,Kernel,,,
+Q2844249,Kernel pair,Kernel pair,,Regular logic
+Q1773982,Kleisli category,,,Kleisli triple
+Q3485002,Left,,,
+Q133105,Leg,,,
+Q1322614,Limit,Limit,Limit,Continuous functor
+Q251307,Localization,,,Localization
+Q4672496,Locally presentable category,,,Locally presentable category
+Q13635346,Locally small,Locally small,Locally small,Tensor product of functors
+Q1503423,Loop,,,Quasigroup
+Q1630568,Monad,Monad,,Monadic functor
+Q6897858,Monadic,,,
+Q2785361,Monoid,Monoid,,Comonoid
+Q1945067,Monomorphism,,Monomorphism,Regular monomorphism
+Q40276,Multiplication,,,Multiplication
+Q145825,Nadir,,,
+Q1442189,Natural isomorphism,Natural transformation,Natural isomorphism,Unnatural isomorphism
+Q719395,Object,,Object,Small category
+Q7098616,Opposite category,Opposite category,,Opposite category
+Q3117899,Opposite group,,,
+Q230664,Orbit,,,
+Q311627,P-adic integer,,,P-adic number
+Q1756942,Partial function,Partial function,Partial function,Partial function
+Q1366002,Path,Path,,
+Q9248237,Pointwise,,,Pointwise order
+Q33456,Power,Exponentiation,Power,
+Q7241053,Preserve,Preserve,,
+Q7241077,Presheaf,,Presheaf,Yoneda extension
+Q919107,Product,,Product,
+Q1397439,Pullback,Pullback square,Pullback square,
+Q1633079,Pushout,Pushout,Pushout,
+Q120429,Reflect,Reflect,,Reflection
+Q6101219,Reflective subcategory,,,Reflective subcategory
+Q426221,Reflector,,Reflection,
+Q130901,Relation,,,Functional relation
+Q2905654,Representation,Representation,Representation,
+Q357858,Right adjoint,Unit of adjunction,Right adjoint,Right adjoint
+Q320245,Right derived functor,,,Derived functor
+Q7451799,Separating set,,,
+Q17000267,Separator,Generator,,
+Q2119470,Sierpinski space,,Sierpinski space,Sierpinski space
+Q7881,Skeletal,,,Skeleton
+Q2291918,Skeleton,Skeleton,,
+Q420725,Small,,Small,
+Q7432,Species,,,Species
+Q288465,Stabilizer,,,Transitive action
+Q7631142,Subfunctor,,,Subfunctor
+Q2547089,Subobject,Subobject,Quotient object,Subobject
+Q207326,Summit,,,
+Q17103860,Symmetric monoidal category,,,Symmetric monoidal category
+Q188524,Tensor,,,Tensor
+Q210481,Terminal,,Terminal,
+Q25098802,Topological monoid,,,Topological monoid
+Q636889,Total derivative,,,Total derivative
+Q223683,Transpose,,Transpose,Transpose matrix
+Q1080547,Truncation,,,
+Q1987578,Unit interval,,,
+Q1945014,Unit object,,,Unitor
+Q161172,Unital ring,,,Ring object
+Q386320,Universal element,Representable functor,,Universal element
+Q1417809,Universal property,Universal property,Universal,Universal construction
+Q17104639,Weak equivalence,,,Weak homotopy equivalence
+Q204,Zero map,,,Zero function
+Q529752,Zero object,Terminal object,,Zero object
+Q7595945,,2-sheaf,,Artin stack
+Q4669982,,Abstraction,,
+Q345680,,Antecedent,,Antecedent
+Q17123932,,Antisymmetric,,
+Q177251,,Associative Law,Associativity,Associativity
+Q1896657,,Atom,,Urelement
+Q2328174,,Atomic formula,,
+Q179692,,Axiom of choice,Axiom of choice,Axiom of choice
+Q740424,,Axiom of extensionality,,Axiom of extensionality
+Q920450,,Axiom of infinity,,Axiom of infinity
+Q920796,,Axiom of pairs,,Axiom of pairing
+Q780487,,Axiom of separation,,Axiom of separation
+Q187456,,Bar,,
+Q204355,,Biconditional,,Biconditional
+Q734272,,Bivalent,,
+Q173183,,Boolean algebra,,Boolean algebra
+Q595364,,Bounded lattice,,
+Q1047307,,Bundle,,
+Q230797,,Chain,,
+Q1934165,,Change of variables,,
+Q1062934,,Character,,
+Q361254,,Characteristic function,Characteristic function,Characteristic function
+Q2513496,,Choice function,,Choice function
+Q5127787,,Clas,Clas,
+Q236975,,Classical logic,,Classical logic
+Q1744628,,Classifier,,
+Q10894825,,Closure algebra,,Closure algebra
+Q1777803,,Co-unit,,Sweedler notation
+Q1283623,,Cofinality,,Cofinality
+Q621542,,Commutative diagram,,Diagram chasing
+Q381892,,Compact space,,Compactum
+Q296074,,Compatible,,
+Q5156434,,Complemented lattice,,Orthomodular lattice
+Q5156470,,Complete Heyting algebra,,Frames and locales
+Q11567,,Complex number,,Real part
+Q244761,,Composition of functions,Composition,
+Q16769650,,Comprehension,,
+Q226931,,Conjunction,,Conjunction
+Q5161702,,Connective,,Connective
+Q261155,,Consequent,,Consequent
+Q23808682,,Conservative functor,,Conservative functor
+Q1319773,,Consistent theory,,Internal logic
+Q188248,,Constant,,
+Q1137814,,Constructivism,,Constructive mathematics
+Q5500266,,Continuous morphism,,Free monoid
+Q173300,,De Morgan’s law,,De Morgan duality
+Q1200750,,Description,,
+Q1201068,,Detachment,,
+Q1228851,,Discrete category,,Discrete category
+Q175116,,Discrete topology,Discrete topology,
+Q215382,,Disjoint set,,
+Q5282259,,Disjoint union,Disjoint union,
+Q1651704,,Disjunction,,Disjunction
+Q2363730,,Distributive lattice,,Distributive lattice
+Q5300067,,Double negation,,Law of double negation
+Q5310265,,Duality Principle,Principle of duality,
+Q226183,,Empty set,,Empty subset
+Q842346,,Equality,,
+Q11345,,Equation,,Equation
+Q852705,,Evaluation function,,
+Q381725,,Exact functor,,Exact functor
+Q468422,,Excluded Middle,,Excluded middle
+Q773483,,Existential quantifier,,Existential quantifier
+Q295785,,Extension,,Extension
+Q965432,,Extensional relation,,Extensionality
+Q5421978,,Extent,,
+Q1064276,,Faithful functor,,Full functor
+Q2890850,,False generalisation,,
+Q14240380,,Fibre,,
+Q4055684,,First-order sentence,,Predicate logic
+Q217608,,Fixed point,,Fixpoint
+Q3064613,,Flabby sheaf,,Soft sheaf
+Q976981,,Formula,,Formula
+Q227744,,Foundation,,
+Q354717,,Fragment,,Fragment
+Q294490,,Frame,,Frame (disambiguation)
+Q3502887,,Free logic,,
+Q935944,,Free variable,,
+Q541563,,Full subcategory,Subcategory,Subcategory
+Q11348,,Function,,Empty function
+Q242028,,Functional abstraction,,Lambda-calculus
+Q2007878,,Functor category,Functor category,Functor category
+Q643669,,Generate,,
+Q2143621,,Geometric morphism,,Topos theory
+Q2520842,,Germ,,
+Q5570834,,Global element,,Global element
+Q83478,,Group,,
+Q5737878,,Hereditary set,,Pure set
+Q1644136,,Higher-order logic,,Higher-order logic
+Q5887297,,Hom-functor,,Internal hom
+Q321119,,Identity function,,Identity function
+Q1215266,,Implication,,Implication
+Q3149511,,Impredicative definition,,Predicative mathematics
+Q1663694,,Inclusion function,,Inclusion function
+Q6033604,,Inhabited,,
+Q182003,,Injective function,,
+Q1923256,,Intension,,
+Q5361594,,Intermediate logic,,
+Q10879018,,Intuitionism,,Intuitionistic mathematics
+Q176786,,Intuitionistic logic,,Intuitionistic logic
+Q860623,,Inverse image,,Preimage
+Q1248241,,Inverse relation,,
+Q338057,,Invertible,,
+Q1723418,,Kan extension,,Kan extension
+Q192826,,Kronecker delta,,Kronecker delta
+Q2754968,,Lattice,,Lattice (disambiguation)
+Q1196892,,Least element,Least element,
+Q17502105,,Least upper bound,Greatest lower bound,
+Q44649,,Left ideal,,
+Q858223,,Limit point,,Limit point
+Q1052761,,Local homeomorphism,,Local homeomorphism
+Q1762213,,Locally constant function,,Locally constant function
+Q220433,,Logically equivalent,,Logical equivalence
+Q845691,,Logicism,,
+Q834585,,Lower semilattice,,Semilattice
+Q6269005,,Meet,,
+Q18629142,,Member,,
+Q193983,,Metalanguage,,Metalanguage
+Q1475294,,Minimal element,,Maximal element
+Q845060,,Minimum,,Extremum
+Q210841,,Modal logic,,Modal logic
+Q638442,,Modal operator,,
+Q7449424,,Monoid action,,
+Q208237,,Monoid homomorphism,,Submonoid
+Q194404,,Monotone function,,Monotone function
+Q15947602,,Natural map,,
+Q21199,,Natural number,,Natural number
+Q6980740,,Natural numbers object,,Natural numbers object
+Q190558,,Negation,,Negation
+Q2478475,,Neighbourhood,,
+Q4347052,,Object language,,
+Q529641,,One-one,,
+Q229102,,Onto,,Surjection
+Q830486,,Open formula,,
+Q213363,,Open set,,
+Q24175351,,Order relation,,Order theory
+Q191290,,Ordered pair,,Ordered pair
+Q191780,,Ordinal,,Ordinal number
+Q842755,,Peano Postulate,,Peano arithmetic
+Q44946,,Point,,
+Q474715,,Poset,,Strict order
+Q4391173,,Power object,Exponential,Power object
+Q205170,,Power set,Power set,Power set
+Q1077811,,Powerset axiom,,
+Q1425985,,Preorder,,Quasiorder
+Q7242162,,Pretopology,,Pretopological space
+Q1570472,,Primitive recursion,,
+Q13443840,,Product category,Product category,Product category
+Q173740,,Product set,,Cartesian square
+Q13415428,,Projection,Projection,Coordinate projection
+Q18345290,,Pseudo-complement,,
+Q1806121,,Range,,
+Q12916,,Real number,,Real number
+Q7301281,,Realisation,,
+Q2136742,,Reflexive,,
+Q470981,,Regularity axiom,,Axiom of foundation
+Q1617044,,Relative pseudo-complement,,Heyting algebra
+Q1361825,,Replacement axiom,,Axiom of replacement
+Q1308999,,Restriction,,
+Q9588,,Richard Nixon,,
+Q1068763,,Rule of inference,,
+Q33401,,Russell set,,Russell's paradox
+Q421639,,Satisfaction,,
+Q17103180,,Section,Section,Split monomorphism
+Q394320,,Selection,,
+Q348486,,Sentence,,Sentence
+Q2271572,,Separation principle,,
+Q843632,,Sequent,,Sequent
+Q2518298,,Set,Set,
+Q379825,,Set membership,,Membership relation
+Q12482,,Set theory,,Set theory
+Q5572389,,Sheafification,,Sheafification
+Q7511782,,Sieve,,
+Q1165112,,Singleton,,
+Q1062242,,Site,,Étale site
+Q246475,,Sober,,
+Q347599,,Sort,,
+Q224772,,Source,,Source
+Q17103642,,Stalk,,
+Q6035663,,Standard model,,
+Q1724688,,Strict,,
+Q7631737,,Subobject classifier,,Subobject classifier
+Q177646,,Subset,,Subset
+Q40754,,Subtraction,,Subtraction
+Q7632653,,Successor function,,
+Q875267,,Sufficient,,
+Q1136376,,Support,,Support of a function
+Q12485,,Symmetric,,Symmetry
+Q230479,,Target,,Target
+Q13560073,,Tautology,,Tautology
+Q1318370,,Term,,
+Q17988630,,Theory,,
+Q42989,,Topology,,Topology
+Q1501387,,Transitive closure,,Transitive closure
+Q64861,,Transitive relation,,Transitive relation
+Q671944,,Transitive set,,Transitive set
+Q272735,,Tree,,
+Q913874,,Truth-function,,
+Q185359,,Union of sets,,
+Q784645,,Universal instantiation,,
+Q126695,,Universal quantifier,,Universal quantifier
+Q13222579,,Upper bound,Upper bound,Upper bound
+Q365832,,Valuation,,Valuation
+Q852662,,Value assignment,,
+Q338021,,Well-founded relation,,Well-founded relation
+Q320577,,Yoneda lemma,Yoneda embedding,Yoneda lemma
+Q136080,,ZF,,
+Q4724020,,,Algebraic theory,Algebraic theory
+Q1086961,,,Bilinear map,Bilinear map
+Q444936,,,Canonical,Canonical
+Q1208187,,,Diagonal functor,Diagonal functor
+Q5358816,,,Element,
+Q267903,,,Epic,
+Q256355,,,Equivariant map,Intertwiner
+Q1379672,,,Evaluation,
+Q5500272,,,Free functor,Free object
+Q609647,,,Identity,
+Q224353,,,Inverse,Inverse
+Q1555242,,,Left regular representation,Regular representation
+Q370502,,,Map,
+Q6899873,,,Monic,
+Q161519,,,Permutation,Permutation
+Q408620,,,Regular,Regularity
+Q1155772,,,Scheme,
+Q133250,,,Sequence,Sequence
+Q207961,,,Shape,Shape
+Q2033899,,,Stone-Cech compactification,Stone-Čech compactification
+Q1163016,,,Tensor product,Tensor product of vector spaces
+Q356743,,,Topo,
+Q369377,,,Total order,Total order
+Q1056428,,,Type,Type theory
+Q295346,,,Vertex,Vertex
+Q595298,Étale space,Pre-sheaf,,Étale space
