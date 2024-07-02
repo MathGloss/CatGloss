@@ -1,6 +1,6 @@
 ---
 layout: page
-title: abelian
+title: abelian category
 permalink: /context/abelian
 ---
 A category is **abelian** if
